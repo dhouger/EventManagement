@@ -1,0 +1,76 @@
+2020-02-14 16:35:32.088 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-14 16:35:33.757 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-14 16:35:33.925 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-14 16:35:34.094 -08:00 [INF] Starting type checking service...
+2020-02-14 16:35:34.095 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-14 16:35:34.132 -08:00 [INF] Starting type checking service...
+2020-02-14 16:35:34.132 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-14 16:35:39.513 -08:00 [INF] Type checking in progress...
+2020-02-14 16:35:40.070 -08:00 [INF] Type checking in progress...
+2020-02-14 16:35:40.084 -08:00 [INF] webpack built ec3b3b9e9cb410785c44 in 5982ms
+2020-02-14 16:35:40.094 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: ec3b3b9e9cb410785c44
+Version: webpack 4.32.2
+Time: 5982ms
+Built at: 02/14/2020 4:35:40 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.56 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-14 16:35:40.095 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-14 16:35:40.535 -08:00 [INF] No type errors found
+2020-02-14 16:35:40.535 -08:00 [INF] Version: typescript 3.5.1
+2020-02-14 16:35:40.536 -08:00 [INF] Time: 6444ms
+2020-02-14 16:35:40.557 -08:00 [INF] No type errors found
+2020-02-14 16:35:40.557 -08:00 [INF] Version: typescript 3.5.1
+2020-02-14 16:35:40.557 -08:00 [INF] Time: 6428ms
+2020-02-14 16:39:08.438 -08:00 [INF] Received SIGINT. Waiting for .NET process to exit...
+2020-02-14 16:39:15.108 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-14 16:39:16.200 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-14 16:39:16.347 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-14 16:39:16.482 -08:00 [INF] Starting type checking service...
+2020-02-14 16:39:16.482 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-14 16:39:16.511 -08:00 [INF] Starting type checking service...
+2020-02-14 16:39:16.511 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-14 16:39:20.776 -08:00 [INF] Type checking in progress...
+2020-02-14 16:39:21.183 -08:00 [INF] Type checking in progress...
+2020-02-14 16:39:21.193 -08:00 [INF] webpack built ec3b3b9e9cb410785c44 in 4707ms
+2020-02-14 16:39:21.203 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: ec3b3b9e9cb410785c44
+Version: webpack 4.32.2
+Time: 4707ms
+Built at: 02/14/2020 4:39:21 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.56 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-14 16:39:21.203 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-14 16:39:21.572 -08:00 [INF] No type errors found
+2020-02-14 16:39:21.572 -08:00 [INF] Version: typescript 3.5.1
+2020-02-14 16:39:21.572 -08:00 [INF] Time: 5094ms
+2020-02-14 16:39:21.594 -08:00 [INF] No type errors found
+2020-02-14 16:39:21.595 -08:00 [INF] Version: typescript 3.5.1
+2020-02-14 16:39:21.595 -08:00 [INF] Time: 5086ms
+2020-02-14 16:40:15.871 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64099/  
+2020-02-14 16:40:15.919 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (Event Management)'
+2020-02-14 16:40:15.939 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (Event Management).
+2020-02-14 16:40:15.947 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (Event Management) - Validation state: "Valid"
+2020-02-14 16:40:15.954 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (Event Management), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.6345ms.
+2020-02-14 16:40:15.971 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-14 16:40:16.426 -08:00 [INF] Executed ViewResult - view Index executed in 466.55310000000003ms.
+2020-02-14 16:40:16.433 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (Event Management) in 493.0711ms
+2020-02-14 16:40:16.434 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (Event Management)'
+2020-02-14 16:40:16.443 -08:00 [INF] Request finished in 573.1979ms 200 text/html; charset=utf-8
+2020-02-14 16:40:16.456 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64099/dist/vendor.css?v=f-quCl14D-DPeasviVSwrLusD7NUpgjDT84aVGn-XjY  
+2020-02-14 16:40:16.456 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64099/dist/main-client.js?v=J4LPYmjA-JkLJlpe7IHpzkpadUKctFhwBnCSbWSaicw  
+2020-02-14 16:40:16.456 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64099/dist/vendor.js?v=tKzV1MxOL9ziJhareCnIlbH_pdF54ID-mhqPe80SUp8  
+2020-02-14 16:40:16.489 -08:00 [INF] Sending file. Request path: '/dist/vendor.css'. Physical path: 'C:\Users\velar\source\repos\Event Management\Event Management\wwwroot\dist\vendor.css'
+2020-02-14 16:40:16.489 -08:00 [INF] Request finished in 33.5794ms 200 text/css
+2020-02-14 16:40:16.497 -08:00 [INF] Request finished in 40.6433ms 200 application/javascript; charset=UTF-8
+2020-02-14 16:40:16.512 -08:00 [INF] Sending file. Request path: '/dist/vendor.js'. Physical path: 'C:\Users\velar\source\repos\Event Management\Event Management\wwwroot\dist\vendor.js'
+2020-02-14 16:40:16.513 -08:00 [INF] Request finished in 56.7904ms 200 application/javascript
+2020-02-14 16:40:16.570 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64099/dist/__webpack_hmr  
+2020-02-14 16:40:16.909 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64099/favicon.ico  
+2020-02-14 16:40:16.910 -08:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\velar\source\repos\Event Management\Event Management\wwwroot\favicon.ico'
+2020-02-14 16:40:16.910 -08:00 [INF] Request finished in 0.8645ms 200 image/x-icon
+2020-02-14 16:46:26.977 -08:00 [INF] Received SIGINT. Waiting for .NET process to exit...
+2020-02-14 16:46:26.978 -08:00 [INF] Received SIGINT. Waiting for .NET process to exit...
+2020-02-14 16:46:32.000 -08:00 [INF] Request finished in 375429.8923ms 200 text/event-stream; charset=utf-8

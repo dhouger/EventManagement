@@ -1,0 +1,1640 @@
+2020-02-17 11:46:45.383 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-17 11:46:47.662 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 11:46:47.821 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 11:46:47.992 -08:00 [INF] Starting type checking service...
+2020-02-17 11:46:47.994 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 11:46:48.024 -08:00 [INF] Starting type checking service...
+2020-02-17 11:46:48.027 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 11:46:48.880 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-02-17 11:46:48.880 -08:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:64098/  0
+2020-02-17 11:46:48.925 -08:00 [INF] Request finished in 75.0641ms 200 
+2020-02-17 11:46:49.009 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 11:46:49.054 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 11:46:49.156 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 11:46:49.169 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 3.2863ms.
+2020-02-17 11:46:49.216 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 11:46:50.711 -08:00 [INF] Executed ViewResult - view Index executed in 1467.8088ms.
+2020-02-17 11:46:50.784 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 1667.8987000000002ms
+2020-02-17 11:46:50.821 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 11:46:50.837 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.css?v=f-quCl14D-DPeasviVSwrLusD7NUpgjDT84aVGn-XjY  
+2020-02-17 11:46:50.851 -08:00 [INF] Request finished in 2000.2957ms 200 text/html; charset=utf-8
+2020-02-17 11:46:50.888 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=J4LPYmjA-JkLJlpe7IHpzkpadUKctFhwBnCSbWSaicw  
+2020-02-17 11:46:50.890 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.js?v=tKzV1MxOL9ziJhareCnIlbH_pdF54ID-mhqPe80SUp8  
+2020-02-17 11:46:51.030 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/vendor.css?v=f-quCl14D-DPeasviVSwrLusD7NUpgjDT84aVGn-XjY
+2020-02-17 11:46:51.039 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/vendor.js?v=tKzV1MxOL9ziJhareCnIlbH_pdF54ID-mhqPe80SUp8
+2020-02-17 11:46:51.043 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/main-client.js?v=J4LPYmjA-JkLJlpe7IHpzkpadUKctFhwBnCSbWSaicw
+2020-02-17 11:46:53.933 -08:00 [INF] Type checking in progress...
+2020-02-17 11:46:53.942 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\dist\main-server.js
+2020-02-17 11:46:54.367 -08:00 [INF] Type checking in progress...
+2020-02-17 11:46:54.376 -08:00 [INF] webpack built 201993a6847a86a229f0 in 6385ms
+2020-02-17 11:46:54.403 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: 201993a6847a86a229f0
+Version: webpack 4.32.2
+Time: 6385ms
+Built at: 02/17/2020 11:46:54 AM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.63 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 11:46:54.406 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 11:46:54.435 -08:00 [INF] No type errors found
+2020-02-17 11:46:54.438 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 11:46:54.464 -08:00 [INF] Time: 6450ms
+2020-02-17 11:46:54.476 -08:00 [INF] No type errors found
+2020-02-17 11:46:54.479 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 11:46:54.481 -08:00 [INF] Time: 6415ms
+2020-02-17 11:46:54.495 -08:00 [INF] Request finished in 3606.8512ms 200 application/javascript; charset=UTF-8
+2020-02-17 11:46:54.511 -08:00 [INF] Sending file. Request path: '/dist/vendor.css'. Physical path: 'C:\Users\velar\source\repos\EventManagement\EventManagement\wwwroot\dist\vendor.css'
+2020-02-17 11:46:54.522 -08:00 [INF] Request finished in 3694.2539ms 200 text/css
+2020-02-17 11:46:54.599 -08:00 [INF] Sending file. Request path: '/dist/vendor.js'. Physical path: 'C:\Users\velar\source\repos\EventManagement\EventManagement\wwwroot\dist\vendor.js'
+2020-02-17 11:46:54.603 -08:00 [INF] Request finished in 3711.3742ms 200 application/javascript
+2020-02-17 11:46:54.676 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 11:46:55.042 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/favicon.ico  
+2020-02-17 11:46:55.046 -08:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\velar\source\repos\EventManagement\EventManagement\wwwroot\favicon.ico'
+2020-02-17 11:46:55.048 -08:00 [INF] Request finished in 5.468ms 200 image/x-icon
+2020-02-17 11:47:00.072 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Person/Search?term=  
+2020-02-17 11:47:00.081 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.PersonController.Search (EventManagement)'
+2020-02-17 11:47:00.097 -08:00 [INF] Route matched with {action = "Search", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Event_Management.Controllers.PersonController (EventManagement).
+2020-02-17 11:47:00.127 -08:00 [INF] Executing action method Event_Management.Controllers.PersonController.Search (EventManagement) - Validation state: "Valid"
+2020-02-17 11:47:00.130 -08:00 [INF] Executed action method Event_Management.Controllers.PersonController.Search (EventManagement), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.7457ms.
+2020-02-17 11:47:00.134 -08:00 [INF] Executing JsonResult, writing value of type 'Event_Management.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Event_Management.Models.PersonModel, EventManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-02-17 11:47:00.139 -08:00 [INF] Executed action Event_Management.Controllers.PersonController.Search (EventManagement) in 40.767500000000005ms
+2020-02-17 11:47:00.141 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.PersonController.Search (EventManagement)'
+2020-02-17 11:47:00.143 -08:00 [INF] Request finished in 71.5639ms 200 application/json; charset=utf-8
+2020-02-17 11:47:08.808 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/events  
+2020-02-17 11:47:08.812 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 11:47:08.814 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 11:47:08.831 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 11:47:08.832 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0979ms.
+2020-02-17 11:47:08.834 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 11:47:09.228 -08:00 [INF] Executed ViewResult - view Index executed in 393.81600000000003ms.
+2020-02-17 11:47:09.229 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 414.2855ms
+2020-02-17 11:47:09.231 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 11:47:09.234 -08:00 [INF] Request finished in 425.621ms 200 text/html; charset=utf-8
+2020-02-17 11:47:09.270 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=qP8JaZUkbW0E65JY3AknDCw4-gG5jxTRe2q_Sd4JNXg  
+2020-02-17 11:47:09.333 -08:00 [INF] Request finished in 67.8545ms 200 application/javascript; charset=UTF-8
+2020-02-17 11:47:09.396 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 11:47:09.438 -08:00 [INF] Request finished in 14761.645ms 200 text/event-stream; charset=utf-8
+2020-02-17 11:47:40.977 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.css.map  
+2020-02-17 11:47:41.014 -08:00 [INF] Sending file. Request path: '/dist/vendor.css.map'. Physical path: 'C:\Users\velar\source\repos\EventManagement\EventManagement\wwwroot\dist\vendor.css.map'
+2020-02-17 11:47:41.016 -08:00 [INF] Request finished in 38.9023ms 200 text/plain
+2020-02-17 11:47:44.700 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/events  
+2020-02-17 11:47:44.701 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 11:47:44.703 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 11:47:44.718 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 11:47:44.720 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0327ms.
+2020-02-17 11:47:44.722 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 11:47:44.790 -08:00 [INF] Executed ViewResult - view Index executed in 68.3357ms.
+2020-02-17 11:47:44.792 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 87.4668ms
+2020-02-17 11:47:44.794 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 11:47:44.796 -08:00 [INF] Request finished in 95.8057ms 200 text/html; charset=utf-8
+2020-02-17 11:47:44.831 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=qP8JaZUkbW0E65JY3AknDCw4-gG5jxTRe2q_Sd4JNXg  
+2020-02-17 11:47:44.888 -08:00 [INF] Request finished in 55.183ms 200 application/javascript; charset=UTF-8
+2020-02-17 11:47:44.949 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 11:47:45.000 -08:00 [INF] Request finished in 35604.4878ms 200 text/event-stream; charset=utf-8
+2020-02-17 11:47:47.300 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.css.map  
+2020-02-17 11:47:47.328 -08:00 [INF] The file /dist/vendor.css.map was not modified
+2020-02-17 11:47:47.331 -08:00 [INF] Request finished in 30.2198ms 304 text/plain
+2020-02-17 11:49:44.755 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js.map  
+2020-02-17 11:49:44.791 -08:00 [INF] Request finished in 35.3835ms 200 application/json; charset=UTF-8
+2020-02-17 12:38:29.552 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-17 12:38:30.973 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 12:38:31.141 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 12:38:31.293 -08:00 [INF] Starting type checking service...
+2020-02-17 12:38:31.298 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 12:38:31.331 -08:00 [INF] Starting type checking service...
+2020-02-17 12:38:31.335 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 12:38:31.763 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-02-17 12:38:31.763 -08:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:64098/  0
+2020-02-17 12:38:31.790 -08:00 [INF] Request finished in 30.4291ms 200 
+2020-02-17 12:38:31.842 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 12:38:31.864 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 12:38:31.934 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 12:38:31.945 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.6672000000000002ms.
+2020-02-17 12:38:31.983 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 12:38:33.280 -08:00 [INF] Executed ViewResult - view Index executed in 1270.2050000000002ms.
+2020-02-17 12:38:33.301 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 1424.8338ms
+2020-02-17 12:38:33.318 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 12:38:33.362 -08:00 [INF] Request finished in 1573.8888ms 200 text/html; charset=utf-8
+2020-02-17 12:38:33.431 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=qP8JaZUkbW0E65JY3AknDCw4-gG5jxTRe2q_Sd4JNXg  
+2020-02-17 12:38:33.994 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/main-client.js?v=qP8JaZUkbW0E65JY3AknDCw4-gG5jxTRe2q_Sd4JNXg
+2020-02-17 12:38:37.291 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\dist\main-server.js
+2020-02-17 12:38:37.714 -08:00 [INF] Type checking in progress...
+2020-02-17 12:38:37.777 -08:00 [INF] Type checking in progress...
+2020-02-17 12:38:37.795 -08:00 [INF] webpack built 201993a6847a86a229f0 in 6487ms
+2020-02-17 12:38:37.808 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: 201993a6847a86a229f0
+Version: webpack 4.32.2
+Time: 6487ms
+Built at: 02/17/2020 12:38:37 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.63 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 12:38:37.816 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 12:38:37.926 -08:00 [INF] No type errors found
+2020-02-17 12:38:37.935 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 12:38:37.941 -08:00 [INF] Time: 6570ms
+2020-02-17 12:38:37.945 -08:00 [INF] No type errors found
+2020-02-17 12:38:37.948 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 12:38:37.954 -08:00 [INF] Time: 6611ms
+2020-02-17 12:38:37.966 -08:00 [INF] Request finished in 4549.1013ms 200 application/javascript; charset=UTF-8
+2020-02-17 12:38:38.030 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 12:38:47.220 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 12:38:47.262 -08:00 [INF] Request finished in 9232.3387ms 200 text/event-stream; charset=utf-8
+2020-02-17 12:38:52.596 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/events  
+2020-02-17 12:38:52.600 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 12:38:52.602 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 12:38:52.619 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 12:38:52.621 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.101ms.
+2020-02-17 12:38:52.623 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 12:38:52.974 -08:00 [INF] Executed ViewResult - view Index executed in 351.5541ms.
+2020-02-17 12:38:52.976 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 372.6292ms
+2020-02-17 12:38:52.978 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 12:38:52.980 -08:00 [INF] Request finished in 383.9034ms 200 text/html; charset=utf-8
+2020-02-17 12:38:53.015 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=qP8JaZUkbW0E65JY3AknDCw4-gG5jxTRe2q_Sd4JNXg  
+2020-02-17 12:38:53.107 -08:00 [INF] Request finished in 93.7757ms 200 application/javascript; charset=UTF-8
+2020-02-17 12:38:53.186 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 12:38:53.223 -08:00 [INF] Request finished in 6003.6007ms 200 text/event-stream; charset=utf-8
+2020-02-17 12:46:55.757 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-17 12:46:57.155 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 12:46:57.307 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 12:46:57.450 -08:00 [INF] Starting type checking service...
+2020-02-17 12:46:57.452 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 12:46:57.480 -08:00 [INF] Starting type checking service...
+2020-02-17 12:46:57.482 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 12:46:57.920 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-02-17 12:46:57.920 -08:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:64098/  0
+2020-02-17 12:46:57.937 -08:00 [INF] Request finished in 20.2763ms 200 
+2020-02-17 12:46:57.980 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 12:46:58.004 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 12:46:58.071 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 12:46:58.082 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 3.1649000000000003ms.
+2020-02-17 12:46:58.115 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 12:46:59.149 -08:00 [INF] Executed ViewResult - view Index executed in 1011.7324000000001ms.
+2020-02-17 12:46:59.173 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 1157.4827ms
+2020-02-17 12:46:59.179 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 12:46:59.305 -08:00 [INF] Request finished in 1337.1611ms 200 text/html; charset=utf-8
+2020-02-17 12:46:59.317 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=qP8JaZUkbW0E65JY3AknDCw4-gG5jxTRe2q_Sd4JNXg  
+2020-02-17 12:47:00.090 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/main-client.js?v=qP8JaZUkbW0E65JY3AknDCw4-gG5jxTRe2q_Sd4JNXg
+2020-02-17 12:47:03.051 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\dist\main-server.js
+2020-02-17 12:47:03.054 -08:00 [INF] Type checking in progress...
+2020-02-17 12:47:03.559 -08:00 [INF] Type checking in progress...
+2020-02-17 12:47:03.571 -08:00 [INF] webpack built 201993a6847a86a229f0 in 6114ms
+2020-02-17 12:47:03.580 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: 201993a6847a86a229f0
+Version: webpack 4.32.2
+Time: 6114ms
+Built at: 02/17/2020 12:47:03 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.63 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 12:47:03.583 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 12:47:03.630 -08:00 [INF] No type errors found
+2020-02-17 12:47:03.634 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 12:47:03.640 -08:00 [INF] Time: 6143ms
+2020-02-17 12:47:03.671 -08:00 [INF] Request finished in 4384.1779ms 200 application/javascript; charset=UTF-8
+2020-02-17 12:47:03.748 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 12:47:03.962 -08:00 [INF] No type errors found
+2020-02-17 12:47:03.963 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 12:47:03.965 -08:00 [INF] Time: 6515ms
+2020-02-17 12:47:44.066 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/events  
+2020-02-17 12:47:44.069 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 12:47:44.070 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 12:47:44.085 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 12:47:44.087 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.09580000000000001ms.
+2020-02-17 12:47:44.094 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 12:47:44.468 -08:00 [INF] Executed ViewResult - view Index executed in 379.9323ms.
+2020-02-17 12:47:44.470 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 398.03180000000003ms
+2020-02-17 12:47:44.471 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 12:47:44.474 -08:00 [INF] Request finished in 407.5403ms 200 text/html; charset=utf-8
+2020-02-17 12:47:44.533 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=qP8JaZUkbW0E65JY3AknDCw4-gG5jxTRe2q_Sd4JNXg  
+2020-02-17 12:47:44.606 -08:00 [INF] Request finished in 77.8027ms 200 application/javascript; charset=UTF-8
+2020-02-17 12:47:44.666 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 12:47:44.713 -08:00 [INF] Request finished in 40965.9608ms 200 text/event-stream; charset=utf-8
+2020-02-17 13:10:07.189 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-17 13:10:08.345 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 13:10:08.498 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 13:10:08.640 -08:00 [INF] Starting type checking service...
+2020-02-17 13:10:08.640 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 13:10:08.671 -08:00 [INF] Starting type checking service...
+2020-02-17 13:10:08.671 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 13:10:09.142 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-02-17 13:10:09.188 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 13:10:09.200 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 13:10:09.209 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 13:10:09.216 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.0043ms.
+2020-02-17 13:10:09.234 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 13:10:10.090 -08:00 [INF] Executed ViewResult - view Index executed in 865.74750000000006ms.
+2020-02-17 13:10:10.105 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 904.5705ms
+2020-02-17 13:10:10.106 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 13:10:10.119 -08:00 [INF] Request finished in 979.0199ms 200 text/html; charset=utf-8
+2020-02-17 13:10:10.223 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=qP8JaZUkbW0E65JY3AknDCw4-gG5jxTRe2q_Sd4JNXg  
+2020-02-17 13:10:10.270 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/main-client.js?v=qP8JaZUkbW0E65JY3AknDCw4-gG5jxTRe2q_Sd4JNXg
+2020-02-17 13:10:14.064 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\dist\main-server.js
+2020-02-17 13:10:14.602 -08:00 [INF] Type checking in progress...
+2020-02-17 13:10:14.621 -08:00 [INF] webpack built 201993a6847a86a229f0 in 5970ms
+2020-02-17 13:10:14.680 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: 201993a6847a86a229f0
+Version: webpack 4.32.2
+Time: 5970ms
+Built at: 02/17/2020 1:10:14 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.63 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 13:10:14.681 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 13:10:14.686 -08:00 [INF] Type checking in progress...
+2020-02-17 13:10:14.715 -08:00 [INF] Request finished in 4491.1694ms 200 application/javascript; charset=UTF-8
+2020-02-17 13:10:14.851 -08:00 [INF] No type errors found
+2020-02-17 13:10:14.851 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 13:10:14.851 -08:00 [INF] Time: 6182ms
+2020-02-17 13:10:14.881 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 13:10:15.141 -08:00 [INF] No type errors found
+2020-02-17 13:10:15.141 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 13:10:15.141 -08:00 [INF] Time: 6507ms
+2020-02-17 13:10:28.678 -08:00 [INF] Request finished in 13796.8354ms 200 text/event-stream; charset=utf-8
+2020-02-17 13:41:04.917 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-02-17 13:41:04.924 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 13:41:04.935 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 13:41:05.022 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 13:41:05.024 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.18510000000000001ms.
+2020-02-17 13:41:05.038 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 13:41:05.475 -08:00 [INF] Executed ViewResult - view Index executed in 443.6915ms.
+2020-02-17 13:41:05.477 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 539.6629ms
+2020-02-17 13:41:05.478 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 13:41:05.482 -08:00 [INF] Request finished in 1355.4661ms 200 text/html; charset=utf-8
+2020-02-17 13:41:05.547 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=qP8JaZUkbW0E65JY3AknDCw4-gG5jxTRe2q_Sd4JNXg  
+2020-02-17 13:41:05.615 -08:00 [INF] Request finished in 75.9576ms 200 application/javascript; charset=UTF-8
+2020-02-17 13:41:05.680 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 13:41:08.856 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Person/Search?term=  
+2020-02-17 13:41:08.868 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.PersonController.Search (EventManagement)'
+2020-02-17 13:41:08.910 -08:00 [INF] Route matched with {action = "Search", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Event_Management.Controllers.PersonController (EventManagement).
+2020-02-17 13:41:08.940 -08:00 [INF] Executing action method Event_Management.Controllers.PersonController.Search (EventManagement) - Validation state: "Valid"
+2020-02-17 13:41:08.943 -08:00 [INF] Executed action method Event_Management.Controllers.PersonController.Search (EventManagement), returned result Microsoft.AspNetCore.Mvc.JsonResult in 1.0274ms.
+2020-02-17 13:41:08.946 -08:00 [INF] Executing JsonResult, writing value of type 'Event_Management.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Event_Management.Models.PersonModel, EventManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-02-17 13:41:08.951 -08:00 [INF] Executed action Event_Management.Controllers.PersonController.Search (EventManagement) in 39.3768ms
+2020-02-17 13:41:08.953 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.PersonController.Search (EventManagement)'
+2020-02-17 13:41:08.955 -08:00 [INF] Request finished in 99.1184ms 200 application/json; charset=utf-8
+2020-02-17 13:59:22.553 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-17 13:59:23.988 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 13:59:24.144 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 13:59:24.298 -08:00 [INF] Starting type checking service...
+2020-02-17 13:59:24.300 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 13:59:24.330 -08:00 [INF] Starting type checking service...
+2020-02-17 13:59:24.335 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 13:59:24.857 -08:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:64098/  0
+2020-02-17 13:59:24.857 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-02-17 13:59:24.880 -08:00 [INF] Request finished in 25.6298ms 200 
+2020-02-17 13:59:24.936 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 13:59:24.959 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 13:59:25.029 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 13:59:25.040 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 3.4178ms.
+2020-02-17 13:59:25.065 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 13:59:26.292 -08:00 [INF] Executed ViewResult - view Index executed in 1197.8036ms.
+2020-02-17 13:59:26.458 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 1337.675ms
+2020-02-17 13:59:26.522 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 13:59:26.530 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=qP8JaZUkbW0E65JY3AknDCw4-gG5jxTRe2q_Sd4JNXg  
+2020-02-17 13:59:26.571 -08:00 [INF] Request finished in 1707.2524ms 200 text/html; charset=utf-8
+2020-02-17 13:59:27.058 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/main-client.js?v=qP8JaZUkbW0E65JY3AknDCw4-gG5jxTRe2q_Sd4JNXg
+2020-02-17 13:59:30.170 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\dist\main-server.js
+2020-02-17 13:59:30.175 -08:00 [INF] Type checking in progress...
+2020-02-17 13:59:30.703 -08:00 [INF] Type checking in progress...
+2020-02-17 13:59:30.714 -08:00 [INF] webpack built 201993a6847a86a229f0 in 6411ms
+2020-02-17 13:59:30.723 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: 201993a6847a86a229f0
+Version: webpack 4.32.2
+Time: 6411ms
+Built at: 02/17/2020 1:59:30 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.63 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 13:59:30.726 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 13:59:30.744 -08:00 [INF] No type errors found
+2020-02-17 13:59:30.746 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 13:59:30.749 -08:00 [INF] Time: 6435ms
+2020-02-17 13:59:30.783 -08:00 [INF] Request finished in 4280.6774ms 200 application/javascript; charset=UTF-8
+2020-02-17 13:59:30.823 -08:00 [INF] No type errors found
+2020-02-17 13:59:30.828 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 13:59:30.833 -08:00 [INF] Time: 6477ms
+2020-02-17 13:59:30.877 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 14:02:52.507 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-17 14:02:53.967 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 14:02:54.118 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 14:02:54.262 -08:00 [INF] Starting type checking service...
+2020-02-17 14:02:54.265 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 14:02:54.297 -08:00 [INF] Starting type checking service...
+2020-02-17 14:02:54.299 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 14:02:54.813 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-02-17 14:02:54.813 -08:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:64098/  0
+2020-02-17 14:02:54.836 -08:00 [INF] Request finished in 24.1053ms 200 
+2020-02-17 14:02:54.888 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:02:54.913 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 14:02:54.986 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 14:02:54.997 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.1381ms.
+2020-02-17 14:02:55.035 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 14:02:56.203 -08:00 [INF] Executed ViewResult - view Index executed in 1173.3291000000002ms.
+2020-02-17 14:02:56.237 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 1302.6158ms
+2020-02-17 14:02:56.258 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:02:56.305 -08:00 [INF] Request finished in 1492.8194ms 200 text/html; charset=utf-8
+2020-02-17 14:02:56.306 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=o8bD969RZ_ogUggdkcUasBVkxM4YA07o6YUYi5ozSQE  
+2020-02-17 14:02:56.911 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/main-client.js?v=o8bD969RZ_ogUggdkcUasBVkxM4YA07o6YUYi5ozSQE
+2020-02-17 14:03:00.215 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\dist\main-server.js
+2020-02-17 14:03:00.805 -08:00 [INF] Type checking in progress...
+2020-02-17 14:03:00.811 -08:00 [INF] webpack built 751bb8162a50f050d44d in 6530ms
+2020-02-17 14:03:00.847 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: 751bb8162a50f050d44d
+Version: webpack 4.32.2
+Time: 6530ms
+Built at: 02/17/2020 2:03:00 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.63 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 14:03:00.850 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 14:03:00.866 -08:00 [INF] Type checking in progress...
+2020-02-17 14:03:00.929 -08:00 [INF] Request finished in 4621.8805ms 200 application/javascript; charset=UTF-8
+2020-02-17 14:03:00.931 -08:00 [INF] No type errors found
+2020-02-17 14:03:00.933 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:03:00.935 -08:00 [INF] Time: 6672ms
+2020-02-17 14:03:00.938 -08:00 [INF] No type errors found
+2020-02-17 14:03:00.940 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:03:00.942 -08:00 [INF] Time: 6635ms
+2020-02-17 14:03:01.017 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 14:03:11.379 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiling...
+2020-02-17 14:03:11.381 -08:00 [INF] webpack building...
+2020-02-17 14:03:11.881 -08:00 [INF] Type checking in progress...
+2020-02-17 14:03:11.889 -08:00 [INF] webpack built c695ca7a41b200800503 in 302ms
+2020-02-17 14:03:11.893 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: c695ca7a41b200800503
+Version: webpack 4.32.2
+Time: 302ms
+Built at: 02/17/2020 2:03:11 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              751bb8162a50f050d44d.hot-update.json   53 bytes               [emitted]         
+    main-client.751bb8162a50f050d44d.hot-update.js   24.1 KiB  main-client  [emitted]         main-client
+main-client.751bb8162a50f050d44d.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.63 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.751bb8162a50f050d44d.hot-update.js main-client.js.map main-client.751bb8162a50f050d44d.hot-update.js.map
+2020-02-17 14:03:11.895 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 14:03:11.898 -08:00 [INF] No type errors found
+2020-02-17 14:03:11.901 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:03:11.904 -08:00 [INF] Time: 312ms
+2020-02-17 14:03:11.907 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/751bb8162a50f050d44d.hot-update.json  
+2020-02-17 14:03:11.942 -08:00 [INF] No type errors found
+2020-02-17 14:03:11.944 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:03:11.952 -08:00 [INF] Time: 296ms
+2020-02-17 14:03:11.976 -08:00 [INF] Request finished in 72.2474ms 200 application/json; charset=UTF-8
+2020-02-17 14:03:11.982 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.751bb8162a50f050d44d.hot-update.js  
+2020-02-17 14:03:12.007 -08:00 [INF] Request finished in 24.3534ms 200 application/javascript; charset=UTF-8
+2020-02-17 14:03:12.064 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Person/Search?term=  
+2020-02-17 14:03:12.068 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.PersonController.Search (EventManagement)'
+2020-02-17 14:03:12.080 -08:00 [INF] Route matched with {action = "Search", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Event_Management.Controllers.PersonController (EventManagement).
+2020-02-17 14:03:12.110 -08:00 [INF] Executing action method Event_Management.Controllers.PersonController.Search (EventManagement) - Validation state: "Valid"
+2020-02-17 14:03:12.112 -08:00 [INF] Executed action method Event_Management.Controllers.PersonController.Search (EventManagement), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.91ms.
+2020-02-17 14:03:12.116 -08:00 [INF] Executing JsonResult, writing value of type 'Event_Management.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Event_Management.Models.PersonModel, EventManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-02-17 14:03:12.125 -08:00 [INF] Executed action Event_Management.Controllers.PersonController.Search (EventManagement) in 40.8024ms
+2020-02-17 14:03:12.128 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.PersonController.Search (EventManagement)'
+2020-02-17 14:03:12.130 -08:00 [INF] Request finished in 66.002ms 200 application/json; charset=utf-8
+2020-02-17 14:32:49.527 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-17 14:32:50.906 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 14:32:51.057 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 14:32:51.219 -08:00 [INF] Starting type checking service...
+2020-02-17 14:32:51.221 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 14:32:51.249 -08:00 [INF] Starting type checking service...
+2020-02-17 14:32:51.253 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 14:32:51.656 -08:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:64098/  0
+2020-02-17 14:32:51.656 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-02-17 14:32:51.674 -08:00 [INF] Request finished in 20.2935ms 200 
+2020-02-17 14:32:51.722 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:32:51.740 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 14:32:51.813 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 14:32:51.827 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.9195ms.
+2020-02-17 14:32:51.857 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 14:32:53.015 -08:00 [INF] Executed ViewResult - view Index executed in 1148.2787ms.
+2020-02-17 14:32:53.051 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 1286.7215ms
+2020-02-17 14:32:53.062 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:32:53.097 -08:00 [INF] Request finished in 1426.8411ms 200 text/html; charset=utf-8
+2020-02-17 14:32:53.187 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=kreIvv11FmwMLh0jLmizmE0SnCTitV31tojXt1v72b4  
+2020-02-17 14:32:53.844 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/main-client.js?v=kreIvv11FmwMLh0jLmizmE0SnCTitV31tojXt1v72b4
+2020-02-17 14:32:57.313 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\dist\main-server.js
+2020-02-17 14:32:57.313 -08:00 [INF] Type checking in progress...
+2020-02-17 14:32:57.854 -08:00 [INF] Type checking in progress...
+2020-02-17 14:32:57.865 -08:00 [INF] webpack built ad663722c40e4fc73bc3 in 6641ms
+2020-02-17 14:32:57.876 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: ad663722c40e4fc73bc3
+Version: webpack 4.32.2
+Time: 6641ms
+Built at: 02/17/2020 2:32:57 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.63 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 14:32:57.892 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 14:32:57.920 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:32:57.922 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(72,16):
+2020-02-17 14:32:57.926 -08:00 [INF] Time: 6701ms
+2020-02-17 14:32:57.928 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchRequest' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:32:57.930 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:32:57.932 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(77,17):
+2020-02-17 14:32:57.934 -08:00 [INF] Time: 6671ms
+2020-02-17 14:32:57.935 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchResponse' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:32:57.938 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(72,16):
+2020-02-17 14:32:57.943 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchRequest' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:32:57.945 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(77,17):
+2020-02-17 14:32:57.950 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchResponse' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:32:57.962 -08:00 [INF] Request finished in 4788.6172ms 200 application/javascript; charset=UTF-8
+2020-02-17 14:32:58.029 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 14:33:03.770 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/events  
+2020-02-17 14:33:03.774 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:33:03.775 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 14:33:03.791 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 14:33:03.793 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.096200000000000008ms.
+2020-02-17 14:33:03.795 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 14:33:04.069 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 14:33:04.072 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:33:04.073 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 14:33:04.087 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 14:33:04.089 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.033ms.
+2020-02-17 14:33:04.090 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 14:33:04.229 -08:00 [INF] Executed ViewResult - view Index executed in 138.4496ms.
+2020-02-17 14:33:04.231 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 156.6989ms
+2020-02-17 14:33:04.232 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:33:04.234 -08:00 [INF] Request finished in 164.7812ms 200 text/html; charset=utf-8
+2020-02-17 14:33:04.256 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 14:33:04.258 -08:00 [INF] Executed ViewResult - view Index executed in 463.9576ms.
+2020-02-17 14:33:04.261 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:33:04.261 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 483.6506ms
+2020-02-17 14:33:04.264 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 14:33:04.265 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:33:04.287 -08:00 [INF] Request finished in 495.8302ms 200 text/html; charset=utf-8
+2020-02-17 14:33:04.288 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 14:33:04.291 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0613ms.
+2020-02-17 14:33:04.293 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 14:33:04.338 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=X4kPDsgLCIUvyoQzgYrKKWBbriPtZSTgwge1mjrvovY  
+2020-02-17 14:33:04.372 -08:00 [INF] Executed ViewResult - view Index executed in 78.7248ms.
+2020-02-17 14:33:04.386 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 108.15960000000001ms
+2020-02-17 14:33:04.389 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:33:04.391 -08:00 [INF] Request finished in 134.0156ms 200 text/html; charset=utf-8
+2020-02-17 14:33:04.404 -08:00 [INF] Request finished in 66.6253ms 200 application/javascript; charset=UTF-8
+2020-02-17 14:33:04.522 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 14:33:04.581 -08:00 [INF] Request finished in 6554.3759ms 200 text/event-stream; charset=utf-8
+2020-02-17 14:38:02.402 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiling...
+2020-02-17 14:38:02.411 -08:00 [INF] webpack building...
+2020-02-17 14:38:02.413 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\pages\EventPage.tsx
+2020-02-17 14:38:03.412 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/pages/EventPage.tsx(152,8):
+2020-02-17 14:38:03.413 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:38:03.424 -08:00 [ERR] 
+TS2339: Property 'debouncedSearch' does not exist on type 'EventPage'.
+2020-02-17 14:38:03.427 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(72,16):
+2020-02-17 14:38:03.430 -08:00 [INF] Time: 634ms
+2020-02-17 14:38:03.439 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchRequest' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:38:03.448 -08:00 [INF] webpack built 4621f9e44ccec8f7dac1 in 800ms
+2020-02-17 14:38:03.449 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(77,17):
+2020-02-17 14:38:03.451 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchResponse' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:38:03.453 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: 4621f9e44ccec8f7dac1
+Version: webpack 4.32.2
+Time: 800ms
+Built at: 02/17/2020 2:38:03 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              ad663722c40e4fc73bc3.hot-update.json   53 bytes               [emitted]         
+    main-client.ad663722c40e4fc73bc3.hot-update.js   33.5 KiB  main-client  [emitted]         main-client
+main-client.ad663722c40e4fc73bc3.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.63 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.ad663722c40e4fc73bc3.hot-update.js main-client.js.map main-client.ad663722c40e4fc73bc3.hot-update.js.map
+2020-02-17 14:38:03.455 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/pages/EventPage.tsx(152,8):
+2020-02-17 14:38:03.457 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 14:38:03.458 -08:00 [ERR] 
+TS2339: Property 'debouncedSearch' does not exist on type 'EventPage'.
+2020-02-17 14:38:03.460 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:38:03.461 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(72,16):
+2020-02-17 14:38:03.463 -08:00 [INF] Time: 651ms
+2020-02-17 14:38:03.465 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/ad663722c40e4fc73bc3.hot-update.json  
+2020-02-17 14:38:03.466 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchRequest' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:38:03.468 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(77,17):
+2020-02-17 14:38:03.478 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchResponse' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:38:03.496 -08:00 [INF] Request finished in 35.1379ms 200 application/json; charset=UTF-8
+2020-02-17 14:38:03.501 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.ad663722c40e4fc73bc3.hot-update.js  
+2020-02-17 14:38:03.521 -08:00 [INF] Request finished in 20.3539ms 200 application/javascript; charset=UTF-8
+2020-02-17 14:38:03.568 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 14:38:03.570 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:38:03.572 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 14:38:03.586 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 14:38:03.587 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0349ms.
+2020-02-17 14:38:03.588 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 14:38:03.926 -08:00 [INF] Executed ViewResult - view Index executed in 337.5494ms.
+2020-02-17 14:38:03.929 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 354.687ms
+2020-02-17 14:38:03.930 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:38:03.932 -08:00 [INF] Request finished in 364.0825ms 200 text/html; charset=utf-8
+2020-02-17 14:38:23.605 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiling...
+2020-02-17 14:38:23.614 -08:00 [INF] webpack building...
+2020-02-17 14:38:23.621 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\pages\EventPage.tsx
+2020-02-17 14:38:24.380 -08:00 [INF] Type checking in progress...
+2020-02-17 14:38:24.386 -08:00 [INF] webpack built 59f0331b6dcb326c5341 in 588ms
+2020-02-17 14:38:24.401 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: 59f0331b6dcb326c5341
+Version: webpack 4.32.2
+Time: 588ms
+Built at: 02/17/2020 2:38:24 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              4621f9e44ccec8f7dac1.hot-update.json   53 bytes               [emitted]         
+    main-client.4621f9e44ccec8f7dac1.hot-update.js   33.5 KiB  main-client  [emitted]         main-client
+main-client.4621f9e44ccec8f7dac1.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.63 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.4621f9e44ccec8f7dac1.hot-update.js main-client.js.map main-client.4621f9e44ccec8f7dac1.hot-update.js.map
+2020-02-17 14:38:24.410 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(72,16):
+2020-02-17 14:38:24.418 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 14:38:24.420 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchRequest' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:38:24.421 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/4621f9e44ccec8f7dac1.hot-update.json  
+2020-02-17 14:38:24.424 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(77,17):
+2020-02-17 14:38:24.435 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:38:24.436 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchResponse' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:38:24.437 -08:00 [INF] Time: 598ms
+2020-02-17 14:38:24.439 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(72,16):
+2020-02-17 14:38:24.442 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:38:24.445 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchRequest' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:38:24.448 -08:00 [INF] Time: 584ms
+2020-02-17 14:38:24.459 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(77,17):
+2020-02-17 14:38:24.462 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchResponse' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:38:24.464 -08:00 [INF] Request finished in 49.4362ms 200 application/json; charset=UTF-8
+2020-02-17 14:38:24.468 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.4621f9e44ccec8f7dac1.hot-update.js  
+2020-02-17 14:38:24.503 -08:00 [INF] Request finished in 34.4944ms 200 application/javascript; charset=UTF-8
+2020-02-17 14:38:24.541 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 14:38:24.542 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:38:24.544 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 14:38:24.558 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 14:38:24.560 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.028900000000000002ms.
+2020-02-17 14:38:24.562 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 14:38:24.948 -08:00 [INF] Executed ViewResult - view Index executed in 385.74960000000004ms.
+2020-02-17 14:38:24.952 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 403.8494ms
+2020-02-17 14:38:24.956 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:38:24.961 -08:00 [INF] Request finished in 417.1516ms 200 text/html; charset=utf-8
+2020-02-17 14:38:43.148 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiling...
+2020-02-17 14:38:43.150 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\pages\EventPage.tsx
+2020-02-17 14:38:43.152 -08:00 [INF] webpack building...
+2020-02-17 14:38:43.797 -08:00 [INF] Type checking in progress...
+2020-02-17 14:38:43.823 -08:00 [INF] webpack built 59f0331b6dcb326c5341 in 448ms
+2020-02-17 14:38:43.831 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: 59f0331b6dcb326c5341
+Version: webpack 4.32.2
+Time: 448ms
+Built at: 02/17/2020 2:38:43 PM
+             Asset      Size       Chunks         Chunk Names
+    main-client.js  3.63 MiB  main-client  [big]  main-client
+main-client.js.map  29.9 KiB  main-client         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 14:38:43.832 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 14:38:44.051 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(72,16):
+2020-02-17 14:38:44.052 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:38:44.054 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchRequest' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:38:44.055 -08:00 [INF] Time: 699ms
+2020-02-17 14:38:44.057 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(77,17):
+2020-02-17 14:38:44.058 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:38:44.059 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchResponse' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:38:44.062 -08:00 [INF] Time: 675ms
+2020-02-17 14:38:44.063 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(72,16):
+2020-02-17 14:38:44.065 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchRequest' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:38:44.066 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(77,17):
+2020-02-17 14:38:44.068 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchResponse' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:38:54.347 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-17 14:38:55.711 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 14:38:55.860 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 14:38:56.008 -08:00 [INF] Starting type checking service...
+2020-02-17 14:38:56.011 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 14:38:56.040 -08:00 [INF] Starting type checking service...
+2020-02-17 14:38:56.042 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 14:38:56.550 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-02-17 14:38:56.550 -08:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:64098/  0
+2020-02-17 14:38:56.570 -08:00 [INF] Request finished in 22.9373ms 200 
+2020-02-17 14:38:56.627 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:38:56.647 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 14:38:56.712 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 14:38:56.724 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.6592000000000002ms.
+2020-02-17 14:38:56.762 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 14:38:58.024 -08:00 [INF] Executed ViewResult - view Index executed in 1253.1382ms.
+2020-02-17 14:38:58.046 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 1384.5711000000001ms
+2020-02-17 14:38:58.049 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:38:58.071 -08:00 [INF] Request finished in 1516.8771ms 200 text/html; charset=utf-8
+2020-02-17 14:38:58.130 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=hRgkExDI97NLS27yY-N5wbnCTIwjZqJq6LJeVkAdw24  
+2020-02-17 14:38:58.719 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/main-client.js?v=hRgkExDI97NLS27yY-N5wbnCTIwjZqJq6LJeVkAdw24
+2020-02-17 14:39:01.899 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\dist\main-server.js
+2020-02-17 14:39:01.920 -08:00 [INF] Type checking in progress...
+2020-02-17 14:39:02.438 -08:00 [INF] Type checking in progress...
+2020-02-17 14:39:02.452 -08:00 [INF] webpack built 123ce83512dee968cfb7 in 6441ms
+2020-02-17 14:39:02.460 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: 123ce83512dee968cfb7
+Version: webpack 4.32.2
+Time: 6441ms
+Built at: 02/17/2020 2:39:02 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.63 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 14:39:02.475 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 14:39:02.499 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:39:02.501 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(72,16):
+2020-02-17 14:39:02.503 -08:00 [INF] Time: 6497ms
+2020-02-17 14:39:02.506 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchRequest' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:39:02.508 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:39:02.512 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(77,17):
+2020-02-17 14:39:02.515 -08:00 [INF] Time: 6463ms
+2020-02-17 14:39:02.516 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchResponse' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:39:02.519 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(72,16):
+2020-02-17 14:39:02.523 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchRequest' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:39:02.530 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(77,17):
+2020-02-17 14:39:02.537 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchResponse' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:39:02.539 -08:00 [INF] Request finished in 4423.4641ms 200 application/javascript; charset=UTF-8
+2020-02-17 14:39:02.598 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 14:39:20.324 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/events  
+2020-02-17 14:39:20.328 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:39:20.330 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 14:39:20.346 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 14:39:20.348 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.1019ms.
+2020-02-17 14:39:20.349 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 14:39:20.618 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 14:39:20.620 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:39:20.622 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 14:39:20.636 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 14:39:20.637 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.030100000000000002ms.
+2020-02-17 14:39:20.638 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 14:39:20.795 -08:00 [INF] Executed ViewResult - view Index executed in 155.6696ms.
+2020-02-17 14:39:20.796 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 173.2328ms
+2020-02-17 14:39:20.798 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:39:20.799 -08:00 [INF] Request finished in 181.0812ms 200 text/html; charset=utf-8
+2020-02-17 14:39:20.828 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 14:39:20.849 -08:00 [INF] Executed ViewResult - view Index executed in 480.47920000000005ms.
+2020-02-17 14:39:20.850 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:39:20.852 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 519.4713ms
+2020-02-17 14:39:20.855 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 14:39:20.906 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:39:20.933 -08:00 [INF] Request finished in 583.4216ms 200 text/html; charset=utf-8
+2020-02-17 14:39:20.935 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 14:39:20.937 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=WoDquz4zb_g2BO7qTc13WObjvKEtrtUWD-MeabI3T5k  
+2020-02-17 14:39:20.938 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0342ms.
+2020-02-17 14:39:20.941 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 14:39:21.034 -08:00 [INF] Executed ViewResult - view Index executed in 94.4465ms.
+2020-02-17 14:39:21.036 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 178.94150000000002ms
+2020-02-17 14:39:21.050 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:39:21.053 -08:00 [INF] Request finished in 225.8976ms 200 text/html; charset=utf-8
+2020-02-17 14:39:21.069 -08:00 [INF] Request finished in 133.8308ms 200 application/javascript; charset=UTF-8
+2020-02-17 14:39:21.145 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 14:39:21.197 -08:00 [INF] Request finished in 18599.5008ms 200 text/event-stream; charset=utf-8
+2020-02-17 14:40:38.022 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiling...
+2020-02-17 14:40:38.029 -08:00 [INF] webpack building...
+2020-02-17 14:40:38.030 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\pages\EventPage.tsx
+2020-02-17 14:40:39.138 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(72,16):
+2020-02-17 14:40:39.141 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:40:39.144 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchRequest' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:40:39.151 -08:00 [INF] Time: 733ms
+2020-02-17 14:40:39.152 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(77,17):
+2020-02-17 14:40:39.162 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchResponse' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:40:39.163 -08:00 [INF] webpack built d24ca70633b7eafe2547 in 909ms
+2020-02-17 14:40:39.165 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(72,16):
+2020-02-17 14:40:39.168 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: d24ca70633b7eafe2547
+Version: webpack 4.32.2
+Time: 909ms
+Built at: 02/17/2020 2:40:39 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              123ce83512dee968cfb7.hot-update.json   53 bytes               [emitted]         
+    main-client.123ce83512dee968cfb7.hot-update.js   32.5 KiB  main-client  [emitted]         main-client
+main-client.123ce83512dee968cfb7.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.63 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.123ce83512dee968cfb7.hot-update.js main-client.js.map main-client.123ce83512dee968cfb7.hot-update.js.map
+2020-02-17 14:40:39.170 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchRequest' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:40:39.171 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 14:40:39.173 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:40:39.174 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(77,17):
+2020-02-17 14:40:39.176 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/123ce83512dee968cfb7.hot-update.json  
+2020-02-17 14:40:39.177 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchResponse' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:40:39.179 -08:00 [INF] Time: 745ms
+2020-02-17 14:40:39.211 -08:00 [INF] Request finished in 38.073ms 200 application/json; charset=UTF-8
+2020-02-17 14:40:39.218 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.123ce83512dee968cfb7.hot-update.js  
+2020-02-17 14:40:39.240 -08:00 [INF] Request finished in 21.0102ms 200 application/javascript; charset=UTF-8
+2020-02-17 14:40:39.286 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 14:40:39.287 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:40:39.289 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 14:40:39.303 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 14:40:39.304 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0324ms.
+2020-02-17 14:40:39.306 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 14:40:39.716 -08:00 [INF] Executed ViewResult - view Index executed in 405.2611ms.
+2020-02-17 14:40:39.718 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 427.78810000000004ms
+2020-02-17 14:40:39.721 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:40:39.728 -08:00 [INF] Request finished in 437.0339ms 200 text/html; charset=utf-8
+2020-02-17 14:41:08.873 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiling...
+2020-02-17 14:41:08.880 -08:00 [INF] webpack building...
+2020-02-17 14:41:08.894 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\pages\EventPage.tsx
+2020-02-17 14:41:09.252 -08:00 [INF] Type checking in progress...
+2020-02-17 14:41:09.262 -08:00 [INF] webpack built d24ca70633b7eafe2547 in 183ms
+2020-02-17 14:41:09.267 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: d24ca70633b7eafe2547
+Version: webpack 4.32.2
+Time: 183ms
+Built at: 02/17/2020 2:41:09 PM
+             Asset      Size       Chunks         Chunk Names
+    main-client.js  3.63 MiB  main-client  [big]  main-client
+main-client.js.map  29.9 KiB  main-client         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 14:41:09.270 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 14:41:09.433 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(72,16):
+2020-02-17 14:41:09.435 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:41:09.437 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchRequest' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:41:09.439 -08:00 [INF] Time: 361ms
+2020-02-17 14:41:09.442 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(77,17):
+2020-02-17 14:41:09.443 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:41:09.445 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchResponse' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:41:09.448 -08:00 [INF] Time: 355ms
+2020-02-17 14:41:09.451 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(72,16):
+2020-02-17 14:41:09.453 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchRequest' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:41:09.454 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(77,17):
+2020-02-17 14:41:09.456 -08:00 [ERR] 
+TS2322: Type 'Actions.SearchResponse' is not assignable to type 'Actions.FailureResponse | Actions.AddRequest | Actions.AddResponse | Actions.UpdateRequest | Actions.UpdateResponse | Actions.DeleteRequest | Actions.DeleteResponse'.
+2020-02-17 14:47:39.708 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-17 14:47:41.072 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 14:47:41.224 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 14:47:41.370 -08:00 [INF] Starting type checking service...
+2020-02-17 14:47:41.372 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 14:47:41.405 -08:00 [INF] Starting type checking service...
+2020-02-17 14:47:41.410 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 14:47:41.997 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-02-17 14:47:41.997 -08:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:64098/  0
+2020-02-17 14:47:42.015 -08:00 [INF] Request finished in 21.4157ms 200 
+2020-02-17 14:47:42.065 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:47:42.150 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 14:47:42.215 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 14:47:42.230 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.6793ms.
+2020-02-17 14:47:42.300 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 14:47:43.410 -08:00 [INF] Executed ViewResult - view Index executed in 1162.699ms.
+2020-02-17 14:47:43.436 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 1266.9887ms
+2020-02-17 14:47:43.457 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:47:43.504 -08:00 [INF] Request finished in 1488.0202ms 200 text/html; charset=utf-8
+2020-02-17 14:47:43.508 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=zo4opdBW5Fyd1QRrqzSW62tk3jUyGN9dcRam_hOLZV8  
+2020-02-17 14:47:44.028 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/main-client.js?v=zo4opdBW5Fyd1QRrqzSW62tk3jUyGN9dcRam_hOLZV8
+2020-02-17 14:47:47.481 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\dist\main-server.js
+2020-02-17 14:47:47.482 -08:00 [INF] Type checking in progress...
+2020-02-17 14:47:48.033 -08:00 [INF] Type checking in progress...
+2020-02-17 14:47:48.044 -08:00 [INF] webpack built 67d88b9fc5eb785ea458 in 6668ms
+2020-02-17 14:47:48.051 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: 67d88b9fc5eb785ea458
+Version: webpack 4.32.2
+Time: 6668ms
+Built at: 02/17/2020 2:47:48 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.63 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 14:47:48.069 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 14:47:48.094 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:47:48.099 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(189,11):
+2020-02-17 14:47:48.101 -08:00 [INF] Time: 6726ms
+2020-02-17 14:47:48.105 -08:00 [ERR] 
+TS2322: Type 'IGetAllRequest | IGetAllResponse' is not assignable to type 'never'.
+  Type 'IGetAllRequest' is not assignable to type 'never'.
+2020-02-17 14:47:48.109 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:47:48.115 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(189,11):
+2020-02-17 14:47:48.119 -08:00 [INF] Time: 6692ms
+2020-02-17 14:47:48.121 -08:00 [ERR] 
+TS2322: Type 'IGetAllRequest | IGetAllResponse' is not assignable to type 'never'.
+  Type 'IGetAllRequest' is not assignable to type 'never'.
+2020-02-17 14:47:48.140 -08:00 [INF] Request finished in 4625.779ms 200 application/javascript; charset=UTF-8
+2020-02-17 14:47:48.210 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 14:47:52.159 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/events  
+2020-02-17 14:47:52.163 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:47:52.164 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 14:47:52.180 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 14:47:52.181 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.1173ms.
+2020-02-17 14:47:52.183 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 14:47:52.450 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 14:47:52.453 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:47:52.455 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 14:47:52.469 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 14:47:52.470 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0342ms.
+2020-02-17 14:47:52.471 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 14:47:52.611 -08:00 [INF] Executed ViewResult - view Index executed in 139.8596ms.
+2020-02-17 14:47:52.613 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 157.10250000000002ms
+2020-02-17 14:47:52.614 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:47:52.617 -08:00 [INF] Request finished in 166.4527ms 200 text/html; charset=utf-8
+2020-02-17 14:47:52.645 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 14:47:52.647 -08:00 [INF] Executed ViewResult - view Index executed in 464.16150000000005ms.
+2020-02-17 14:47:52.648 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:47:52.651 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 483.2379ms
+2020-02-17 14:47:52.651 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 14:47:52.653 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:47:52.675 -08:00 [INF] Request finished in 514.2405ms 200 text/html; charset=utf-8
+2020-02-17 14:47:52.676 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 14:47:52.677 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.039900000000000005ms.
+2020-02-17 14:47:52.680 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 14:47:52.727 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=CHtwe9wtlZgUgknngW_8ssdG7_BMDEnM6VHyUYeha6Y  
+2020-02-17 14:47:52.772 -08:00 [INF] Executed ViewResult - view Index executed in 91.217300000000009ms.
+2020-02-17 14:47:52.775 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 120.78280000000001ms
+2020-02-17 14:47:52.777 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:47:52.779 -08:00 [INF] Request finished in 140.5339ms 200 text/html; charset=utf-8
+2020-02-17 14:47:52.796 -08:00 [INF] Request finished in 71.3181ms 200 application/javascript; charset=UTF-8
+2020-02-17 14:47:52.857 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 14:47:52.924 -08:00 [INF] Request finished in 4714.5955ms 200 text/event-stream; charset=utf-8
+2020-02-17 14:49:29.684 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiling...
+2020-02-17 14:49:29.692 -08:00 [INF] webpack building...
+2020-02-17 14:49:29.699 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\pages\EventPage.tsx
+2020-02-17 14:49:30.611 -08:00 [INF] Type checking in progress...
+2020-02-17 14:49:30.621 -08:00 [INF] webpack built f97da57fc2c462c51215 in 742ms
+2020-02-17 14:49:30.627 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: f97da57fc2c462c51215
+Version: webpack 4.32.2
+Time: 742ms
+Built at: 02/17/2020 2:49:30 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              67d88b9fc5eb785ea458.hot-update.json   53 bytes               [emitted]         
+    main-client.67d88b9fc5eb785ea458.hot-update.js   33.2 KiB  main-client  [emitted]         main-client
+main-client.67d88b9fc5eb785ea458.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.63 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.67d88b9fc5eb785ea458.hot-update.js main-client.js.map main-client.67d88b9fc5eb785ea458.hot-update.js.map
+2020-02-17 14:49:30.635 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 14:49:30.636 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(189,11):
+2020-02-17 14:49:30.638 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:49:30.639 -08:00 [ERR] 
+TS2322: Type 'IGetAllRequest | IGetAllResponse' is not assignable to type 'never'.
+  Type 'IGetAllRequest' is not assignable to type 'never'.
+2020-02-17 14:49:30.641 -08:00 [INF] Time: 758ms
+2020-02-17 14:49:30.644 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/67d88b9fc5eb785ea458.hot-update.json  
+2020-02-17 14:49:30.684 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 14:49:30.686 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(189,11):
+2020-02-17 14:49:30.688 -08:00 [INF] Request finished in 40.7633ms 200 application/json; charset=UTF-8
+2020-02-17 14:49:30.690 -08:00 [INF] Time: 774ms
+2020-02-17 14:49:30.691 -08:00 [ERR] 
+TS2322: Type 'IGetAllRequest | IGetAllResponse' is not assignable to type 'never'.
+  Type 'IGetAllRequest' is not assignable to type 'never'.
+2020-02-17 14:49:30.693 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.67d88b9fc5eb785ea458.hot-update.js  
+2020-02-17 14:49:30.716 -08:00 [INF] Request finished in 22.8828ms 200 application/javascript; charset=UTF-8
+2020-02-17 14:49:30.770 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 14:49:30.771 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:49:30.773 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 14:49:30.787 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 14:49:30.788 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0284ms.
+2020-02-17 14:49:30.789 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 14:49:31.199 -08:00 [INF] Executed ViewResult - view Index executed in 408.6141ms.
+2020-02-17 14:49:31.201 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 426.5088ms
+2020-02-17 14:49:31.203 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 14:49:31.206 -08:00 [INF] Request finished in 434.7334ms 200 text/html; charset=utf-8
+2020-02-17 15:03:35.862 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-17 15:03:37.223 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 15:03:37.373 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 15:03:37.511 -08:00 [INF] Starting type checking service...
+2020-02-17 15:03:37.513 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 15:03:37.550 -08:00 [INF] Starting type checking service...
+2020-02-17 15:03:37.553 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 15:03:38.109 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-02-17 15:03:38.109 -08:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:64098/  0
+2020-02-17 15:03:38.129 -08:00 [INF] Request finished in 24.0665ms 200 
+2020-02-17 15:03:38.180 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 15:03:38.200 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 15:03:38.289 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 15:03:38.300 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.1976ms.
+2020-02-17 15:03:38.332 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 15:03:39.603 -08:00 [INF] Executed ViewResult - view Index executed in 1259.377ms.
+2020-02-17 15:03:39.625 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 1418.1285ms
+2020-02-17 15:03:39.636 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 15:03:39.652 -08:00 [INF] Request finished in 1545.1505ms 200 text/html; charset=utf-8
+2020-02-17 15:03:39.698 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=i0kn5Sc04Xun4e2opUNq1l20Us9lkYl8WnYVK-W0SnE  
+2020-02-17 15:03:40.223 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/main-client.js?v=i0kn5Sc04Xun4e2opUNq1l20Us9lkYl8WnYVK-W0SnE
+2020-02-17 15:03:43.370 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\dist\main-server.js
+2020-02-17 15:03:43.376 -08:00 [INF] Type checking in progress...
+2020-02-17 15:03:43.923 -08:00 [INF] Type checking in progress...
+2020-02-17 15:03:43.936 -08:00 [INF] webpack built 719b61a232797b868433 in 6417ms
+2020-02-17 15:03:43.943 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: 719b61a232797b868433
+Version: webpack 4.32.2
+Time: 6417ms
+Built at: 02/17/2020 3:03:43 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.63 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 15:03:43.945 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 15:03:43.961 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 15:03:43.962 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(189,11):
+2020-02-17 15:03:43.963 -08:00 [INF] Time: 6402ms
+2020-02-17 15:03:43.965 -08:00 [ERR] 
+TS2322: Type 'IGetAllRequest | IGetAllResponse' is not assignable to type 'never'.
+  Type 'IGetAllRequest' is not assignable to type 'never'.
+2020-02-17 15:03:44.030 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/store/EventStore.ts(189,11):
+2020-02-17 15:03:44.033 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 15:03:44.035 -08:00 [ERR] 
+TS2322: Type 'IGetAllRequest | IGetAllResponse' is not assignable to type 'never'.
+  Type 'IGetAllRequest' is not assignable to type 'never'.
+2020-02-17 15:03:44.038 -08:00 [INF] Time: 6518ms
+2020-02-17 15:03:44.104 -08:00 [INF] Request finished in 4422.3821ms 200 application/javascript; charset=UTF-8
+2020-02-17 15:03:44.184 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 15:03:48.337 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/events  
+2020-02-17 15:03:48.341 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 15:03:48.342 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 15:03:48.358 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 15:03:48.359 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.12040000000000001ms.
+2020-02-17 15:03:48.362 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 15:03:48.638 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 15:03:48.640 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 15:03:48.649 -08:00 [INF] Route matched with {action = "Search", controller = "Event"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Event_Management.Controllers.EventController (EventManagement).
+2020-02-17 15:03:48.672 -08:00 [INF] Executing action method Event_Management.Controllers.EventController.Search (EventManagement) - Validation state: "Valid"
+2020-02-17 15:03:48.674 -08:00 [INF] Executed action method Event_Management.Controllers.EventController.Search (EventManagement), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.77970000000000006ms.
+2020-02-17 15:03:48.677 -08:00 [INF] Executing JsonResult, writing value of type 'Event_Management.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Event_Management.Models.EventModel, EventManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-02-17 15:03:48.685 -08:00 [INF] Executed action Event_Management.Controllers.EventController.Search (EventManagement) in 34.4474ms
+2020-02-17 15:03:48.687 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 15:03:48.688 -08:00 [INF] Request finished in 50.6964ms 200 application/json; charset=utf-8
+2020-02-17 15:03:48.711 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 15:03:48.715 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 15:03:48.716 -08:00 [INF] Route matched with {action = "Search", controller = "Event"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Event_Management.Controllers.EventController (EventManagement).
+2020-02-17 15:03:48.733 -08:00 [INF] Executing action method Event_Management.Controllers.EventController.Search (EventManagement) - Validation state: "Valid"
+2020-02-17 15:03:48.735 -08:00 [INF] Executed action method Event_Management.Controllers.EventController.Search (EventManagement), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.0094ms.
+2020-02-17 15:03:48.737 -08:00 [INF] Executing JsonResult, writing value of type 'Event_Management.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Event_Management.Models.EventModel, EventManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-02-17 15:03:48.739 -08:00 [INF] Executed action Event_Management.Controllers.EventController.Search (EventManagement) in 20.866400000000002ms
+2020-02-17 15:03:48.740 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 15:03:48.742 -08:00 [INF] Request finished in 31.6096ms 200 application/json; charset=utf-8
+2020-02-17 15:03:48.828 -08:00 [INF] Executed ViewResult - view Index executed in 465.8953ms.
+2020-02-17 15:03:48.830 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 485.971ms
+2020-02-17 15:03:48.832 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 15:03:48.834 -08:00 [INF] Request finished in 496.6604ms 200 text/html; charset=utf-8
+2020-02-17 15:03:48.873 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=JhyNqZ6ZNlwPcQC2nau7Wr9TBPDubJ7aWpiCSxVGZGY  
+2020-02-17 15:03:48.930 -08:00 [INF] Request finished in 60.9482ms 200 application/javascript; charset=UTF-8
+2020-02-17 15:03:49.007 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 15:03:49.057 -08:00 [INF] Request finished in 4873.9208ms 200 text/event-stream; charset=utf-8
+2020-02-17 15:19:44.800 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-17 15:19:46.432 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 15:19:46.600 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 15:19:46.766 -08:00 [INF] Starting type checking service...
+2020-02-17 15:19:46.771 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 15:19:46.802 -08:00 [INF] Starting type checking service...
+2020-02-17 15:19:46.804 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 15:19:47.433 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-02-17 15:19:47.433 -08:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:64098/  0
+2020-02-17 15:19:47.453 -08:00 [INF] Request finished in 23.7155ms 200 
+2020-02-17 15:19:47.508 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 15:19:47.542 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 15:19:47.618 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 15:19:47.632 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 4.6224ms.
+2020-02-17 15:19:47.671 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 15:19:48.950 -08:00 [INF] Executed ViewResult - view Index executed in 1239.9977000000001ms.
+2020-02-17 15:19:48.997 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 1421.2242ms
+2020-02-17 15:19:49.040 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 15:19:49.180 -08:00 [INF] Request finished in 1645.6054ms 200 text/html; charset=utf-8
+2020-02-17 15:19:49.195 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=JhyNqZ6ZNlwPcQC2nau7Wr9TBPDubJ7aWpiCSxVGZGY  
+2020-02-17 15:19:49.584 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/main-client.js?v=JhyNqZ6ZNlwPcQC2nau7Wr9TBPDubJ7aWpiCSxVGZGY
+2020-02-17 15:19:53.209 -08:00 [INF] Type checking in progress...
+2020-02-17 15:19:53.177 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\dist\main-server.js
+2020-02-17 15:19:53.789 -08:00 [INF] Type checking in progress...
+2020-02-17 15:19:53.802 -08:00 [INF] webpack built 13dc5ee490ed8c1ae51d in 7030ms
+2020-02-17 15:19:53.810 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: 13dc5ee490ed8c1ae51d
+Version: webpack 4.32.2
+Time: 7030ms
+Built at: 02/17/2020 3:19:53 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.64 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 15:19:53.819 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 15:19:53.822 -08:00 [INF] No type errors found
+2020-02-17 15:19:53.841 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 15:19:53.853 -08:00 [INF] Time: 7054ms
+2020-02-17 15:19:53.860 -08:00 [INF] No type errors found
+2020-02-17 15:19:53.865 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 15:19:53.868 -08:00 [INF] Time: 7017ms
+2020-02-17 15:19:53.899 -08:00 [INF] Request finished in 4702.8347ms 200 application/javascript; charset=UTF-8
+2020-02-17 15:19:53.988 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 15:20:00.683 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/events  
+2020-02-17 15:20:00.687 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 15:20:00.689 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 15:20:00.704 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 15:20:00.705 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.1401ms.
+2020-02-17 15:20:00.707 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 15:20:00.984 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 15:20:00.986 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 15:20:00.995 -08:00 [INF] Route matched with {action = "Search", controller = "Event"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Event_Management.Controllers.EventController (EventManagement).
+2020-02-17 15:20:01.023 -08:00 [INF] Executing action method Event_Management.Controllers.EventController.Search (EventManagement) - Validation state: "Valid"
+2020-02-17 15:20:01.025 -08:00 [INF] Executed action method Event_Management.Controllers.EventController.Search (EventManagement), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.70400000000000007ms.
+2020-02-17 15:20:01.029 -08:00 [INF] Executing JsonResult, writing value of type 'Event_Management.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Event_Management.Models.EventModel, EventManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-02-17 15:20:01.036 -08:00 [INF] Executed action Event_Management.Controllers.EventController.Search (EventManagement) in 38.842400000000005ms
+2020-02-17 15:20:01.038 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 15:20:01.039 -08:00 [INF] Request finished in 55.4426ms 200 application/json; charset=utf-8
+2020-02-17 15:20:01.068 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 15:20:01.072 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 15:20:01.075 -08:00 [INF] Route matched with {action = "Search", controller = "Event"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Event_Management.Controllers.EventController (EventManagement).
+2020-02-17 15:20:01.098 -08:00 [INF] Executing action method Event_Management.Controllers.EventController.Search (EventManagement) - Validation state: "Valid"
+2020-02-17 15:20:01.099 -08:00 [INF] Executed action method Event_Management.Controllers.EventController.Search (EventManagement), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.0090000000000000011ms.
+2020-02-17 15:20:01.102 -08:00 [INF] Executing JsonResult, writing value of type 'Event_Management.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Event_Management.Models.EventModel, EventManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-02-17 15:20:01.107 -08:00 [INF] Executed action Event_Management.Controllers.EventController.Search (EventManagement) in 28.4238ms
+2020-02-17 15:20:01.108 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 15:20:01.110 -08:00 [INF] Request finished in 42.4037ms 200 application/json; charset=utf-8
+2020-02-17 15:20:01.190 -08:00 [INF] Executed ViewResult - view Index executed in 482.72090000000003ms.
+2020-02-17 15:20:01.191 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 500.9033ms
+2020-02-17 15:20:01.192 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 15:20:01.194 -08:00 [INF] Request finished in 510.7977ms 200 text/html; charset=utf-8
+2020-02-17 15:20:01.228 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=s4GXTnbHy9Q22iApKatQ_VxJw4OlEneKd2SyrH3rYuM  
+2020-02-17 15:20:01.308 -08:00 [INF] Request finished in 79.6635ms 200 application/javascript; charset=UTF-8
+2020-02-17 15:20:01.389 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 15:20:01.436 -08:00 [INF] Request finished in 7447.3286ms 200 text/event-stream; charset=utf-8
+2020-02-17 15:33:00.886 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-17 15:33:02.222 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 15:33:02.374 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 15:33:02.524 -08:00 [INF] Starting type checking service...
+2020-02-17 15:33:02.526 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 15:33:02.554 -08:00 [INF] Starting type checking service...
+2020-02-17 15:33:02.555 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 15:33:03.027 -08:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:64098/  0
+2020-02-17 15:33:03.027 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-02-17 15:33:03.046 -08:00 [INF] Request finished in 21.8528ms 200 
+2020-02-17 15:33:03.104 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 15:33:03.127 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 15:33:03.196 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 15:33:03.210 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 3.1169000000000002ms.
+2020-02-17 15:33:03.254 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 15:33:04.369 -08:00 [INF] Executed ViewResult - view Index executed in 1132.9985000000001ms.
+2020-02-17 15:33:04.380 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 1249.8252ms
+2020-02-17 15:33:04.407 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 15:33:04.471 -08:00 [INF] Request finished in 1403.3977ms 200 text/html; charset=utf-8
+2020-02-17 15:33:04.487 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=s4GXTnbHy9Q22iApKatQ_VxJw4OlEneKd2SyrH3rYuM  
+2020-02-17 15:33:05.149 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/main-client.js?v=s4GXTnbHy9Q22iApKatQ_VxJw4OlEneKd2SyrH3rYuM
+2020-02-17 15:33:08.484 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\dist\main-server.js
+2020-02-17 15:33:08.498 -08:00 [INF] Type checking in progress...
+2020-02-17 15:33:09.150 -08:00 [INF] Type checking in progress...
+2020-02-17 15:33:09.165 -08:00 [INF] webpack built d2b74cd7ec527e35ee86 in 6632ms
+2020-02-17 15:33:09.178 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: d2b74cd7ec527e35ee86
+Version: webpack 4.32.2
+Time: 6632ms
+Built at: 02/17/2020 3:33:09 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.64 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 15:33:09.197 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 15:33:09.218 -08:00 [INF] No type errors found
+2020-02-17 15:33:09.221 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 15:33:09.227 -08:00 [INF] Time: 6698ms
+2020-02-17 15:33:09.232 -08:00 [INF] No type errors found
+2020-02-17 15:33:09.236 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 15:33:09.238 -08:00 [INF] Time: 6667ms
+2020-02-17 15:33:09.252 -08:00 [INF] Request finished in 4787.2014ms 200 application/javascript; charset=UTF-8
+2020-02-17 15:33:09.328 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 15:33:13.848 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/events  
+2020-02-17 15:33:13.852 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 15:33:13.854 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 15:33:13.870 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 15:33:13.872 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0889ms.
+2020-02-17 15:33:13.874 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 15:33:14.143 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 15:33:14.147 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 15:33:14.157 -08:00 [INF] Route matched with {action = "Search", controller = "Event"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Event_Management.Controllers.EventController (EventManagement).
+2020-02-17 15:33:14.184 -08:00 [INF] Executing action method Event_Management.Controllers.EventController.Search (EventManagement) - Validation state: "Valid"
+2020-02-17 15:33:14.186 -08:00 [INF] Executed action method Event_Management.Controllers.EventController.Search (EventManagement), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.8808ms.
+2020-02-17 15:33:14.190 -08:00 [INF] Executing JsonResult, writing value of type 'Event_Management.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Event_Management.Models.EventModel, EventManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-02-17 15:33:14.198 -08:00 [INF] Executed action Event_Management.Controllers.EventController.Search (EventManagement) in 39.2269ms
+2020-02-17 15:33:14.200 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 15:33:14.201 -08:00 [INF] Request finished in 58.3016ms 200 application/json; charset=utf-8
+2020-02-17 15:33:14.225 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 15:33:14.229 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 15:33:14.231 -08:00 [INF] Route matched with {action = "Search", controller = "Event"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Event_Management.Controllers.EventController (EventManagement).
+2020-02-17 15:33:14.251 -08:00 [INF] Executing action method Event_Management.Controllers.EventController.Search (EventManagement) - Validation state: "Valid"
+2020-02-17 15:33:14.252 -08:00 [INF] Executed action method Event_Management.Controllers.EventController.Search (EventManagement), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.011000000000000001ms.
+2020-02-17 15:33:14.254 -08:00 [INF] Executing JsonResult, writing value of type 'Event_Management.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Event_Management.Models.EventModel, EventManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-02-17 15:33:14.257 -08:00 [INF] Executed action Event_Management.Controllers.EventController.Search (EventManagement) in 24.061500000000002ms
+2020-02-17 15:33:14.258 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 15:33:14.260 -08:00 [INF] Request finished in 34.5598ms 200 application/json; charset=utf-8
+2020-02-17 15:33:14.340 -08:00 [INF] Executed ViewResult - view Index executed in 466.5928ms.
+2020-02-17 15:33:14.342 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 486.04690000000005ms
+2020-02-17 15:33:14.343 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 15:33:14.345 -08:00 [INF] Request finished in 498.3962ms 200 text/html; charset=utf-8
+2020-02-17 15:33:14.400 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=HQnQf-So_uKeuh3JeXlXSYZOIMO9x0k8VtVSVT1lx0E  
+2020-02-17 15:33:14.480 -08:00 [INF] Request finished in 92.111ms 200 application/javascript; charset=UTF-8
+2020-02-17 15:33:14.551 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 15:33:14.610 -08:00 [INF] Request finished in 5282.5278ms 200 text/event-stream; charset=utf-8
+2020-02-17 16:17:29.541 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-17 16:17:30.927 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 16:17:31.076 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 16:17:31.224 -08:00 [INF] Starting type checking service...
+2020-02-17 16:17:31.226 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 16:17:31.253 -08:00 [INF] Starting type checking service...
+2020-02-17 16:17:31.256 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 16:17:31.903 -08:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:64098/  0
+2020-02-17 16:17:31.903 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-02-17 16:17:31.926 -08:00 [INF] Request finished in 27.2073ms 200 
+2020-02-17 16:17:31.999 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 16:17:32.044 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 16:17:32.122 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 16:17:32.149 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.766ms.
+2020-02-17 16:17:32.192 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 16:17:33.342 -08:00 [INF] Executed ViewResult - view Index executed in 1151.6466ms.
+2020-02-17 16:17:33.423 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 1323.2357ms
+2020-02-17 16:17:33.434 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 16:17:33.439 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=HQnQf-So_uKeuh3JeXlXSYZOIMO9x0k8VtVSVT1lx0E  
+2020-02-17 16:17:33.477 -08:00 [INF] Request finished in 1551.5801ms 200 text/html; charset=utf-8
+2020-02-17 16:17:33.845 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/main-client.js?v=HQnQf-So_uKeuh3JeXlXSYZOIMO9x0k8VtVSVT1lx0E
+2020-02-17 16:17:37.646 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\dist\main-server.js
+2020-02-17 16:17:37.650 -08:00 [INF] Type checking in progress...
+2020-02-17 16:17:38.228 -08:00 [INF] Type checking in progress...
+2020-02-17 16:17:38.240 -08:00 [INF] webpack built c925a6a7258d877ebc9b in 7011ms
+2020-02-17 16:17:38.252 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: c925a6a7258d877ebc9b
+Version: webpack 4.32.2
+Time: 7011ms
+Built at: 02/17/2020 4:17:38 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.64 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 16:17:38.256 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 16:17:38.300 -08:00 [INF] No type errors found
+2020-02-17 16:17:38.303 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 16:17:38.305 -08:00 [INF] Time: 7081ms
+2020-02-17 16:17:38.319 -08:00 [INF] No type errors found
+2020-02-17 16:17:38.325 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 16:17:38.330 -08:00 [INF] Time: 7050ms
+2020-02-17 16:17:38.345 -08:00 [INF] Request finished in 4907.1564ms 200 application/javascript; charset=UTF-8
+2020-02-17 16:17:38.467 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 16:17:41.453 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/events  
+2020-02-17 16:17:41.457 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 16:17:41.458 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 16:17:41.473 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 16:17:41.475 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.099ms.
+2020-02-17 16:17:41.477 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 16:17:41.762 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 16:17:41.764 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 16:17:41.846 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 385.216ms
+2020-02-17 16:17:41.848 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 16:17:41.856 -08:00 [INF] Route matched with {action = "Search", controller = "Event"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Event_Management.Controllers.EventController (EventManagement).
+2020-02-17 16:17:41.896 -08:00 [INF] Executing action method Event_Management.Controllers.EventController.Search (EventManagement) - Validation state: "Valid"
+2020-02-17 16:17:41.899 -08:00 [INF] Executed action method Event_Management.Controllers.EventController.Search (EventManagement), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.9491ms.
+2020-02-17 16:17:41.902 -08:00 [INF] Executing JsonResult, writing value of type 'Event_Management.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Event_Management.Models.EventModel, EventManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-02-17 16:17:41.912 -08:00 [INF] Executed action Event_Management.Controllers.EventController.Search (EventManagement) in 53.7783ms
+2020-02-17 16:17:41.913 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 16:17:41.915 -08:00 [INF] Request finished in 155.1377ms 200 application/json; charset=utf-8
+2020-02-17 16:17:41.999 -08:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.NodeServices.HostingModels.NodeInvocationException: input is a void element tag and must neither have `children` nor use `dangerouslySetInnerHTML`.
+    in input
+    in div
+    in form
+    in Form
+    in Context.Provider
+    in Formik
+    in EventEditor
+    in div
+    in div
+    in div
+    in div
+    in ModalComponent
+    in div
+    in EventPage
+    in Context.Provider
+    in ConnectFunction
+    in ConnectFunction
+    in Context.Provider
+    in Context.Consumer
+    in Route
+    in withRouter(Connect(EventPage))
+    in div
+    in div
+    in AuthorizedLayout
+    in Context.Provider
+    in Context.Consumer
+    in Route
+    in AppRoute
+    in Context.Consumer
+    in Switch
+    in Context.Provider
+    in Router
+    in StaticRouter
+    in Context.Provider
+    in Provider
+Invariant Violation: input is a void element tag and must neither have `children` nor use `dangerouslySetInnerHTML`.
+    in input
+    in div
+    in form
+    in Form
+    in Context.Provider
+    in Formik
+    in EventEditor
+    in div
+    in div
+    in div
+    in div
+    in ModalComponent
+    in div
+    in EventPage
+    in Context.Provider
+    in ConnectFunction
+    in ConnectFunction
+    in Context.Provider
+    in Context.Consumer
+    in Route
+    in withRouter(Connect(EventPage))
+    in div
+    in div
+    in AuthorizedLayout
+    in Context.Provider
+    in Context.Consumer
+    in Route
+    in AppRoute
+    in Context.Consumer
+    in Switch
+    in Context.Provider
+    in Router
+    in StaticRouter
+    in Context.Provider
+    in Provider
+    at invariant (webpack-internal:///./node_modules/@hot-loader/react-dom/cjs/react-dom-server.node.development.js:58:15)
+    at assertValidProps (webpack-internal:///./node_modules/@hot-loader/react-dom/cjs/react-dom-server.node.development.js:1404:74)
+    at ReactDOMServerRenderer.renderDOM (webpack-internal:///./node_modules/@hot-loader/react-dom/cjs/react-dom-server.node.development.js:3588:5)
+    at ReactDOMServerRenderer.render (webpack-internal:///./node_modules/@hot-loader/react-dom/cjs/react-dom-server.node.development.js:3237:21)
+    at ReactDOMServerRenderer.read (webpack-internal:///./node_modules/@hot-loader/react-dom/cjs/react-dom-server.node.development.js:3161:29)
+    at renderToString (webpack-internal:///./node_modules/@hot-loader/react-dom/cjs/react-dom-server.node.development.js:3646:27)
+    at renderApp (webpack-internal:///./ClientApp/boot-server.tsx:28:504)
+    at eval (webpack-internal:///./ClientApp/boot-server.tsx:28:581)
+    at new Promise (<anonymous>)
+    at eval (webpack-internal:///./ClientApp/boot-server.tsx:23:829)
+   at Microsoft.AspNetCore.NodeServices.HostingModels.HttpNodeInstance.InvokeExportAsync[T](NodeInvocationInfo invocationInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.HostingModels.OutOfProcessNodeInstance.InvokeExportAsync[T](CancellationToken cancellationToken, String moduleName, String exportNameOrNull, Object[] args)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at AspNetCore.Views_Main_Index.ExecuteAsync() in C:\Users\velar\source\repos\EventManagement\EventManagement\Views\Main\Index.cshtml:line 7
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.SpaServices.Webpack.ConditionalProxyMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.SpaServices.Webpack.ConditionalProxyMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-02-17 16:17:42.037 -08:00 [INF] Request finished in 583.8003ms 500 text/html; charset=utf-8
+2020-02-17 16:17:51.266 -08:00 [INF] Request finished in 12810.5815ms 200 text/event-stream; charset=utf-8
+2020-02-17 16:19:58.152 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiling...
+2020-02-17 16:19:58.160 -08:00 [INF] webpack building...
+2020-02-17 16:19:58.161 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\components\event\EventEditor.tsx
+2020-02-17 16:19:58.858 -08:00 [INF] Type checking in progress...
+2020-02-17 16:19:58.879 -08:00 [INF] webpack built 7cded0c4109482205f71 in 479ms
+2020-02-17 16:19:58.881 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: 7cded0c4109482205f71
+Version: webpack 4.32.2
+Time: 479ms
+Built at: 02/17/2020 4:19:58 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              c925a6a7258d877ebc9b.hot-update.json   53 bytes               [emitted]         
+    main-client.c925a6a7258d877ebc9b.hot-update.js   16.3 KiB  main-client  [emitted]         main-client
+main-client.c925a6a7258d877ebc9b.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.64 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.c925a6a7258d877ebc9b.hot-update.js main-client.js.map main-client.c925a6a7258d877ebc9b.hot-update.js.map
+2020-02-17 16:19:58.883 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 16:19:58.884 -08:00 [INF] No type errors found
+2020-02-17 16:19:58.885 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 16:19:58.886 -08:00 [INF] Time: 500ms
+2020-02-17 16:19:58.887 -08:00 [INF] No type errors found
+2020-02-17 16:19:58.888 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 16:19:58.889 -08:00 [INF] Time: 527ms
+2020-02-17 16:22:52.947 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiling...
+2020-02-17 16:22:52.956 -08:00 [INF] webpack building...
+2020-02-17 16:22:53.461 -08:00 [INF] Type checking in progress...
+2020-02-17 16:22:53.474 -08:00 [INF] webpack built 09a30e84e1bde54988f0 in 320ms
+2020-02-17 16:22:53.477 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: 09a30e84e1bde54988f0
+Version: webpack 4.32.2
+Time: 320ms
+Built at: 02/17/2020 4:22:53 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              7cded0c4109482205f71.hot-update.json   53 bytes               [emitted]         
+    main-client.7cded0c4109482205f71.hot-update.js   16.3 KiB  main-client  [emitted]         main-client
+main-client.7cded0c4109482205f71.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.64 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.7cded0c4109482205f71.hot-update.js main-client.js.map main-client.7cded0c4109482205f71.hot-update.js.map
+2020-02-17 16:22:53.479 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 16:22:53.481 -08:00 [INF] No type errors found
+2020-02-17 16:22:53.484 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 16:22:53.486 -08:00 [INF] Time: 336ms
+2020-02-17 16:22:53.511 -08:00 [INF] No type errors found
+2020-02-17 16:22:53.512 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 16:22:53.513 -08:00 [INF] Time: 329ms
+2020-02-17 16:23:18.231 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiling...
+2020-02-17 16:23:18.233 -08:00 [INF] webpack building...
+2020-02-17 16:23:18.742 -08:00 [INF] Type checking in progress...
+2020-02-17 16:23:18.751 -08:00 [INF] webpack built 1c378901ff9c7a20089a in 321ms
+2020-02-17 16:23:18.755 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: 1c378901ff9c7a20089a
+Version: webpack 4.32.2
+Time: 321ms
+Built at: 02/17/2020 4:23:18 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              09a30e84e1bde54988f0.hot-update.json   53 bytes               [emitted]         
+    main-client.09a30e84e1bde54988f0.hot-update.js   16.3 KiB  main-client  [emitted]         main-client
+main-client.09a30e84e1bde54988f0.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.64 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.09a30e84e1bde54988f0.hot-update.js main-client.js.map main-client.09a30e84e1bde54988f0.hot-update.js.map
+2020-02-17 16:23:18.756 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 16:23:18.881 -08:00 [INF] No type errors found
+2020-02-17 16:23:18.883 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 16:23:18.885 -08:00 [INF] Time: 460ms
+2020-02-17 16:23:18.890 -08:00 [INF] No type errors found
+2020-02-17 16:23:18.892 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 16:23:18.893 -08:00 [INF] Time: 450ms
+2020-02-17 16:23:25.274 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/events  
+2020-02-17 16:23:25.276 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 16:23:25.277 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 16:23:25.293 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 16:23:25.294 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0315ms.
+2020-02-17 16:23:25.296 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 16:23:25.557 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 16:23:25.560 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 16:23:25.561 -08:00 [INF] Route matched with {action = "Search", controller = "Event"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Event_Management.Controllers.EventController (EventManagement).
+2020-02-17 16:23:25.576 -08:00 [INF] Executing action method Event_Management.Controllers.EventController.Search (EventManagement) - Validation state: "Valid"
+2020-02-17 16:23:25.577 -08:00 [INF] Executed action method Event_Management.Controllers.EventController.Search (EventManagement), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.0114ms.
+2020-02-17 16:23:25.579 -08:00 [INF] Executing JsonResult, writing value of type 'Event_Management.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Event_Management.Models.EventModel, EventManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-02-17 16:23:25.581 -08:00 [INF] Executed action Event_Management.Controllers.EventController.Search (EventManagement) in 18.4553ms
+2020-02-17 16:23:25.584 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 16:23:25.585 -08:00 [INF] Request finished in 28.2515ms 200 application/json; charset=utf-8
+2020-02-17 16:23:25.607 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 16:23:25.609 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 16:23:25.610 -08:00 [INF] Route matched with {action = "Search", controller = "Event"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Event_Management.Controllers.EventController (EventManagement).
+2020-02-17 16:23:25.626 -08:00 [INF] Executing action method Event_Management.Controllers.EventController.Search (EventManagement) - Validation state: "Valid"
+2020-02-17 16:23:25.628 -08:00 [INF] Executed action method Event_Management.Controllers.EventController.Search (EventManagement), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.006ms.
+2020-02-17 16:23:25.630 -08:00 [INF] Executing JsonResult, writing value of type 'Event_Management.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Event_Management.Models.EventModel, EventManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-02-17 16:23:25.633 -08:00 [INF] Executed action Event_Management.Controllers.EventController.Search (EventManagement) in 20.589000000000002ms
+2020-02-17 16:23:25.634 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 16:23:25.636 -08:00 [INF] Request finished in 28.8779ms 200 application/json; charset=utf-8
+2020-02-17 16:23:25.715 -08:00 [INF] Executed ViewResult - view Index executed in 418.5566ms.
+2020-02-17 16:23:25.717 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 437.8704ms
+2020-02-17 16:23:25.718 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 16:23:25.721 -08:00 [INF] Request finished in 445.448ms 200 text/html; charset=utf-8
+2020-02-17 16:23:25.757 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.css?v=f-quCl14D-DPeasviVSwrLusD7NUpgjDT84aVGn-XjY  
+2020-02-17 16:23:25.759 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.js?v=tKzV1MxOL9ziJhareCnIlbH_pdF54ID-mhqPe80SUp8  
+2020-02-17 16:23:25.783 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=S-oEPVYTTCxOqa8cP8DlyCVKw87tozvqjtNZNXS62Js  
+2020-02-17 16:23:25.875 -08:00 [INF] The file /dist/vendor.css was not modified
+2020-02-17 16:23:25.876 -08:00 [INF] The file /dist/vendor.js was not modified
+2020-02-17 16:23:25.884 -08:00 [INF] Request finished in 121.7384ms 304 application/javascript
+2020-02-17 16:23:25.887 -08:00 [INF] Request finished in 123.8868ms 304 text/css
+2020-02-17 16:23:25.949 -08:00 [INF] Request finished in 163.1871ms 200 application/javascript; charset=UTF-8
+2020-02-17 16:23:26.008 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 17:34:53.938 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-17 17:34:55.282 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 17:34:55.426 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 17:34:55.581 -08:00 [INF] Starting type checking service...
+2020-02-17 17:34:55.581 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 17:34:55.610 -08:00 [INF] Starting type checking service...
+2020-02-17 17:34:55.610 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 17:34:56.175 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-02-17 17:34:56.236 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 17:34:56.263 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 17:34:56.272 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 17:34:56.283 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.7588ms.
+2020-02-17 17:34:56.305 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 17:34:57.056 -08:00 [INF] Executed ViewResult - view Index executed in 765.2371ms.
+2020-02-17 17:34:57.065 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 801.77150000000006ms
+2020-02-17 17:34:57.067 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 17:34:57.086 -08:00 [INF] Request finished in 912.2271ms 200 text/html; charset=utf-8
+2020-02-17 17:34:57.190 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=S-oEPVYTTCxOqa8cP8DlyCVKw87tozvqjtNZNXS62Js  
+2020-02-17 17:34:57.769 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/events  
+2020-02-17 17:34:57.772 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 17:34:57.773 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 17:34:57.773 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 17:34:57.773 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.056ms.
+2020-02-17 17:34:57.773 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 17:34:57.825 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 17:34:57.827 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 17:34:57.844 -08:00 [INF] Route matched with {action = "Search", controller = "Event"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Event_Management.Controllers.EventController (EventManagement).
+2020-02-17 17:34:57.862 -08:00 [INF] Executing action method Event_Management.Controllers.EventController.Search (EventManagement) - Validation state: "Valid"
+2020-02-17 17:34:57.865 -08:00 [INF] Executed action method Event_Management.Controllers.EventController.Search (EventManagement), returned result Microsoft.AspNetCore.Mvc.JsonResult in 2.894ms.
+2020-02-17 17:34:57.868 -08:00 [INF] Executing JsonResult, writing value of type 'Event_Management.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Event_Management.Models.EventModel, EventManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-02-17 17:34:57.877 -08:00 [INF] Executed action Event_Management.Controllers.EventController.Search (EventManagement) in 32.8234ms
+2020-02-17 17:34:57.877 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 17:34:57.877 -08:00 [INF] Request finished in 52.2753ms 200 application/json; charset=utf-8
+2020-02-17 17:34:57.921 -08:00 [INF] Executed ViewResult - view Index executed in 148.1003ms.
+2020-02-17 17:34:57.921 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 148.75560000000002ms
+2020-02-17 17:34:57.921 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 17:34:57.921 -08:00 [INF] Request finished in 152.0192ms 200 text/html; charset=utf-8
+2020-02-17 17:34:57.943 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 17:34:57.948 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 17:34:57.949 -08:00 [INF] Route matched with {action = "Search", controller = "Event"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Event_Management.Controllers.EventController (EventManagement).
+2020-02-17 17:34:57.950 -08:00 [INF] Executing action method Event_Management.Controllers.EventController.Search (EventManagement) - Validation state: "Valid"
+2020-02-17 17:34:57.950 -08:00 [INF] Executed action method Event_Management.Controllers.EventController.Search (EventManagement), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.0067ms.
+2020-02-17 17:34:57.950 -08:00 [INF] Executing JsonResult, writing value of type 'Event_Management.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Event_Management.Models.EventModel, EventManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-02-17 17:34:57.950 -08:00 [INF] Executed action Event_Management.Controllers.EventController.Search (EventManagement) in 1.0645ms
+2020-02-17 17:34:57.950 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 17:34:57.950 -08:00 [INF] Request finished in 7.545ms 200 application/json; charset=utf-8
+2020-02-17 17:34:58.051 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=S-oEPVYTTCxOqa8cP8DlyCVKw87tozvqjtNZNXS62Js  
+2020-02-17 17:34:58.092 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/main-client.js?v=S-oEPVYTTCxOqa8cP8DlyCVKw87tozvqjtNZNXS62Js
+2020-02-17 17:34:58.160 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/main-client.js?v=S-oEPVYTTCxOqa8cP8DlyCVKw87tozvqjtNZNXS62Js
+2020-02-17 17:35:01.602 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\dist\main-server.js
+2020-02-17 17:35:01.605 -08:00 [INF] Type checking in progress...
+2020-02-17 17:35:02.106 -08:00 [INF] Type checking in progress...
+2020-02-17 17:35:02.114 -08:00 [INF] webpack built b64f334fb64b57ef4ab4 in 6533ms
+2020-02-17 17:35:02.120 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: b64f334fb64b57ef4ab4
+Version: webpack 4.32.2
+Time: 6533ms
+Built at: 02/17/2020 5:35:02 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.64 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 17:35:02.120 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 17:35:02.134 -08:00 [INF] Request finished in 4943.5009ms 200 application/javascript; charset=UTF-8
+2020-02-17 17:35:02.142 -08:00 [INF] Request finished in 4091.3612ms 200 application/javascript; charset=UTF-8
+2020-02-17 17:35:02.174 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/components/person/AttendeesEditor.tsx(50,69):
+2020-02-17 17:35:02.174 -08:00 [ERR] 
+TS2339: Property 'id' does not exist on type 'IPersonModel[]'.
+2020-02-17 17:35:02.174 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/components/person/AttendeesEditor.tsx(61,23):
+2020-02-17 17:35:02.174 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 17:35:02.174 -08:00 [ERR] 
+TS2339: Property 'firstName' does not exist on type '{ attendees: string | IPersonModel[]; }'.
+2020-02-17 17:35:02.174 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/components/person/AttendeesEditor.tsx(76,23):
+2020-02-17 17:35:02.174 -08:00 [INF] Time: 6566ms
+2020-02-17 17:35:02.174 -08:00 [ERR] 
+TS2339: Property 'lastName' does not exist on type '{ attendees: string | IPersonModel[]; }'.
+2020-02-17 17:35:02.174 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/components/person/AttendeesEditor.tsx(50,69):
+2020-02-17 17:35:02.174 -08:00 [ERR] 
+TS2339: Property 'id' does not exist on type 'IPersonModel[]'.
+2020-02-17 17:35:02.175 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/components/person/AttendeesEditor.tsx(61,23):
+2020-02-17 17:35:02.175 -08:00 [ERR] 
+TS2339: Property 'firstName' does not exist on type '{ attendees: string | IPersonModel[]; }'.
+2020-02-17 17:35:02.175 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/components/person/AttendeesEditor.tsx(76,23):
+2020-02-17 17:35:02.175 -08:00 [ERR] 
+TS2339: Property 'lastName' does not exist on type '{ attendees: string | IPersonModel[]; }'.
+2020-02-17 17:35:02.175 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 17:35:02.175 -08:00 [INF] Time: 6598ms
+2020-02-17 17:35:02.219 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 17:35:04.658 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-02-17 17:35:04.658 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 17:35:04.658 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 17:35:04.658 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 17:35:04.658 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0184ms.
+2020-02-17 17:35:04.658 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 17:35:04.938 -08:00 [INF] Executed ViewResult - view Index executed in 279.2473ms.
+2020-02-17 17:35:04.938 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 279.6186ms
+2020-02-17 17:35:04.938 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 17:35:04.938 -08:00 [INF] Request finished in 280.2365ms 200 text/html; charset=utf-8
+2020-02-17 17:35:04.980 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=-24EDLLjhH8JPeml7nF9Xq07ces5vI_STv9CqAzLXPo  
+2020-02-17 17:35:05.000 -08:00 [INF] Request finished in 20.2121ms 200 application/javascript; charset=UTF-8
+2020-02-17 17:35:05.126 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 17:35:05.133 -08:00 [INF] Request finished in 2914.4681ms 200 text/event-stream; charset=utf-8
+2020-02-17 17:35:06.096 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Person/Search?term=  
+2020-02-17 17:35:06.096 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.PersonController.Search (EventManagement)'
+2020-02-17 17:35:06.098 -08:00 [INF] Route matched with {action = "Search", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Event_Management.Controllers.PersonController (EventManagement).
+2020-02-17 17:35:06.098 -08:00 [INF] Executing action method Event_Management.Controllers.PersonController.Search (EventManagement) - Validation state: "Valid"
+2020-02-17 17:35:06.099 -08:00 [INF] Executed action method Event_Management.Controllers.PersonController.Search (EventManagement), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.6791ms.
+2020-02-17 17:35:06.099 -08:00 [INF] Executing JsonResult, writing value of type 'Event_Management.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Event_Management.Models.PersonModel, EventManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-02-17 17:35:06.101 -08:00 [INF] Executed action Event_Management.Controllers.PersonController.Search (EventManagement) in 2.8653ms
+2020-02-17 17:35:06.101 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.PersonController.Search (EventManagement)'
+2020-02-17 17:35:06.101 -08:00 [INF] Request finished in 4.8619ms 200 application/json; charset=utf-8
+2020-02-17 17:35:18.395 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\components\person\AttendeesEditor.tsx
+2020-02-17 18:03:55.714 -08:00 [INF] Request finished in 1730588.4393ms 200 text/event-stream; charset=utf-8
+2020-02-17 18:04:14.848 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 19:03:55.922 -08:00 [INF] Request finished in 3581074.3459ms 200 text/event-stream; charset=utf-8
+2020-02-17 19:04:14.741 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 20:03:56.103 -08:00 [INF] Request finished in 3581362.728ms 200 text/event-stream; charset=utf-8
+2020-02-17 20:04:15.161 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 21:05:16.306 -08:00 [INF] Request finished in 3661144.9403ms 200 text/event-stream; charset=utf-8
+2020-02-17 21:05:31.879 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 22:05:46.499 -08:00 [INF] Request finished in 3614619.7006ms 200 text/event-stream; charset=utf-8
+2020-02-17 22:06:04.652 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 22:06:35.892 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-17 22:06:37.449 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 22:06:37.609 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 22:06:37.751 -08:00 [INF] Starting type checking service...
+2020-02-17 22:06:37.754 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 22:06:37.790 -08:00 [INF] Starting type checking service...
+2020-02-17 22:06:37.793 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 22:06:38.612 -08:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:64098/  0
+2020-02-17 22:06:38.612 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-02-17 22:06:38.656 -08:00 [INF] Request finished in 57.8929ms 200 
+2020-02-17 22:06:38.764 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 22:06:38.813 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 22:06:38.899 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 22:06:38.910 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.6802ms.
+2020-02-17 22:06:38.975 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 22:06:41.158 -08:00 [INF] Executed ViewResult - view Index executed in 2191.4724ms.
+2020-02-17 22:06:41.273 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 2365.2801ms
+2020-02-17 22:06:41.287 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 22:06:41.334 -08:00 [INF] Request finished in 2723.9806ms 200 text/html; charset=utf-8
+2020-02-17 22:06:41.464 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=-24EDLLjhH8JPeml7nF9Xq07ces5vI_STv9CqAzLXPo  
+2020-02-17 22:06:41.776 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/main-client.js?v=-24EDLLjhH8JPeml7nF9Xq07ces5vI_STv9CqAzLXPo
+2020-02-17 22:06:44.274 -08:00 [INF] Node will restart because file changed: C:\Users\velar\source\repos\EventManagement\EventManagement\ClientApp\dist\main-server.js
+2020-02-17 22:06:44.276 -08:00 [INF] Type checking in progress...
+2020-02-17 22:06:44.803 -08:00 [INF] Type checking in progress...
+2020-02-17 22:06:44.817 -08:00 [INF] webpack built b64f334fb64b57ef4ab4 in 7059ms
+2020-02-17 22:06:44.824 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: b64f334fb64b57ef4ab4
+Version: webpack 4.32.2
+Time: 7059ms
+Built at: 02/17/2020 10:06:44 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.64 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 22:06:44.832 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 22:06:44.865 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/components/person/AttendeesEditor.tsx(51,69):
+2020-02-17 22:06:44.867 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 22:06:44.869 -08:00 [ERR] 
+TS2339: Property 'id' does not exist on type 'IPersonModel[]'.
+2020-02-17 22:06:44.872 -08:00 [INF] Time: 7116ms
+2020-02-17 22:06:44.874 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/components/person/AttendeesEditor.tsx(62,23):
+2020-02-17 22:06:44.876 -08:00 [ERR] 
+TS2339: Property 'firstName' does not exist on type '{ attendees: string | IPersonModel[]; }'.
+2020-02-17 22:06:44.879 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/components/person/AttendeesEditor.tsx(75,23):
+2020-02-17 22:06:44.881 -08:00 [ERR] 
+TS2339: Property 'lastName' does not exist on type '{ attendees: string | IPersonModel[]; }'.
+2020-02-17 22:06:44.884 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 22:06:44.887 -08:00 [INF] Time: 7096ms
+2020-02-17 22:06:44.890 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/components/person/AttendeesEditor.tsx(51,69):
+2020-02-17 22:06:44.892 -08:00 [ERR] 
+TS2339: Property 'id' does not exist on type 'IPersonModel[]'.
+2020-02-17 22:06:44.894 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/components/person/AttendeesEditor.tsx(62,23):
+2020-02-17 22:06:44.898 -08:00 [ERR] 
+TS2339: Property 'firstName' does not exist on type '{ attendees: string | IPersonModel[]; }'.
+2020-02-17 22:06:44.900 -08:00 [ERR] ERROR in C:/Users/velar/source/repos/EventManagement/EventManagement/ClientApp/components/person/AttendeesEditor.tsx(75,23):
+2020-02-17 22:06:44.903 -08:00 [ERR] 
+TS2339: Property 'lastName' does not exist on type '{ attendees: string | IPersonModel[]; }'.
+2020-02-17 22:06:44.914 -08:00 [INF] Request finished in 3481.1296ms 200 application/javascript; charset=UTF-8
+2020-02-17 22:06:44.975 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 22:06:46.423 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 22:06:51.295 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/events  
+2020-02-17 22:06:51.299 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 22:06:51.301 -08:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Event_Management.Controllers.MainController (EventManagement).
+2020-02-17 22:06:51.317 -08:00 [INF] Executing action method Event_Management.Controllers.MainController.Index (EventManagement) - Validation state: "Valid"
+2020-02-17 22:06:51.318 -08:00 [INF] Executed action method Event_Management.Controllers.MainController.Index (EventManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0917ms.
+2020-02-17 22:06:51.321 -08:00 [INF] Executing ViewResult, running view Index.
+2020-02-17 22:06:51.598 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 22:06:51.601 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 22:06:51.611 -08:00 [INF] Route matched with {action = "Search", controller = "Event"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Event_Management.Controllers.EventController (EventManagement).
+2020-02-17 22:06:51.638 -08:00 [INF] Executing action method Event_Management.Controllers.EventController.Search (EventManagement) - Validation state: "Valid"
+2020-02-17 22:06:51.641 -08:00 [INF] Executed action method Event_Management.Controllers.EventController.Search (EventManagement), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.97600000000000009ms.
+2020-02-17 22:06:51.644 -08:00 [INF] Executing JsonResult, writing value of type 'Event_Management.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Event_Management.Models.EventModel, EventManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-02-17 22:06:51.652 -08:00 [INF] Executed action Event_Management.Controllers.EventController.Search (EventManagement) in 39.217200000000005ms
+2020-02-17 22:06:51.655 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 22:06:51.658 -08:00 [INF] Request finished in 59.59ms 200 application/json; charset=utf-8
+2020-02-17 22:06:51.686 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Event/Search?term=  
+2020-02-17 22:06:51.691 -08:00 [INF] Executing endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 22:06:51.698 -08:00 [INF] Route matched with {action = "Search", controller = "Event"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Event_Management.Controllers.EventController (EventManagement).
+2020-02-17 22:06:51.721 -08:00 [INF] Executing action method Event_Management.Controllers.EventController.Search (EventManagement) - Validation state: "Valid"
+2020-02-17 22:06:51.723 -08:00 [INF] Executed action method Event_Management.Controllers.EventController.Search (EventManagement), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.0149ms.
+2020-02-17 22:06:51.726 -08:00 [INF] Executing JsonResult, writing value of type 'Event_Management.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Event_Management.Models.EventModel, EventManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-02-17 22:06:51.729 -08:00 [INF] Executed action Event_Management.Controllers.EventController.Search (EventManagement) in 28.3026ms
+2020-02-17 22:06:51.731 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.EventController.Search (EventManagement)'
+2020-02-17 22:06:51.733 -08:00 [INF] Request finished in 47.147ms 200 application/json; charset=utf-8
+2020-02-17 22:06:51.810 -08:00 [INF] Executed ViewResult - view Index executed in 490.2074ms.
+2020-02-17 22:06:51.812 -08:00 [INF] Executed action Event_Management.Controllers.MainController.Index (EventManagement) in 509.4841ms
+2020-02-17 22:06:51.814 -08:00 [INF] Executed endpoint 'Event_Management.Controllers.MainController.Index (EventManagement)'
+2020-02-17 22:06:51.816 -08:00 [INF] Request finished in 520.5328ms 200 text/html; charset=utf-8
+2020-02-17 22:06:51.877 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=-24EDLLjhH8JPeml7nF9Xq07ces5vI_STv9CqAzLXPo  
+2020-02-17 22:06:51.942 -08:00 [INF] Request finished in 93.1219ms 200 application/javascript; charset=UTF-8
+2020-02-17 22:06:52.007 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 22:06:52.052 -08:00 [INF] Request finished in 7077.3167ms 200 text/event-stream; charset=utf-8
+2020-02-17 22:09:33.791 -08:00 [INF] User profile is available. Using 'C:\Users\velar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-02-17 22:09:34.934 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 22:09:35.080 -08:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-02-17 22:09:35.220 -08:00 [INF] Starting type checking service...
+2020-02-17 22:09:35.220 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 22:09:35.251 -08:00 [INF] Starting type checking service...
+2020-02-17 22:09:35.251 -08:00 [INF] Using 1 worker with 2048MB memory limit
+2020-02-17 22:09:35.540 -08:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-02-17 22:09:35.824 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: wait until bundle finished: /dist/__webpack_hmr
+2020-02-17 22:09:40.371 -08:00 [INF] Type checking in progress...
+2020-02-17 22:09:40.385 -08:00 [INF] webpack built b64f334fb64b57ef4ab4 in 5157ms
+2020-02-17 22:09:40.447 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Hash: b64f334fb64b57ef4ab4
+Version: webpack 4.32.2
+Time: 5157ms
+Built at: 02/17/2020 10:09:40 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.64 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-02-17 22:09:40.447 -08:00 [INF] [34mi[39m [90m∩╜ówdm∩╜ú[39m: Compiled successfully.
+2020-02-17 22:09:40.462 -08:00 [INF] Type checking in progress...
+2020-02-17 22:09:40.513 -08:00 [INF] No type errors found
+2020-02-17 22:09:40.513 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 22:09:40.513 -08:00 [INF] Time: 5297ms
+2020-02-17 22:09:40.524 -08:00 [INF] No type errors found
+2020-02-17 22:09:40.524 -08:00 [INF] Version: typescript 3.5.1
+2020-02-17 22:09:40.524 -08:00 [INF] Time: 5275ms

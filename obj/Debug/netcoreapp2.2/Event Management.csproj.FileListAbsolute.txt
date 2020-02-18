@@ -1,0 +1,27 @@
+C:\Users\velar\source\repos\Event Management\Event Management\bin\Debug\netcoreapp2.2\wwwroot\favicon.ico
+C:\Users\velar\source\repos\Event Management\Event Management\bin\Debug\netcoreapp2.2\Event Management.deps.json
+C:\Users\velar\source\repos\Event Management\Event Management\bin\Debug\netcoreapp2.2\Event Management.runtimeconfig.json
+C:\Users\velar\source\repos\Event Management\Event Management\bin\Debug\netcoreapp2.2\Event Management.runtimeconfig.dev.json
+C:\Users\velar\source\repos\Event Management\Event Management\bin\Debug\netcoreapp2.2\Event Management.dll
+C:\Users\velar\source\repos\Event Management\Event Management\bin\Debug\netcoreapp2.2\Event Management.pdb
+C:\Users\velar\source\repos\Event Management\Event Management\bin\Debug\netcoreapp2.2\Event Management.Views.dll
+C:\Users\velar\source\repos\Event Management\Event Management\bin\Debug\netcoreapp2.2\Event Management.Views.pdb
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Event Management.csprojAssemblyReference.cache
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Event Management.RazorAssemblyInfo.cache
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Event Management.RazorAssemblyInfo.cs
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Event Management.AssemblyInfoInputs.cache
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Event Management.AssemblyInfo.cs
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Event Management.TagHelpers.input.cache
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Event Management.TagHelpers.output.cache
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Event Management.RazorCoreGenerate.cache
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Event Management.RazorTargetAssemblyInfo.cache
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Event Management.RazorTargetAssemblyInfo.cs
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Event Management.Views.pdb
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Event Management.dll
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Event Management.pdb
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Event Management.csproj.CopyComplete
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Event Management.csproj.CoreCompileInputs.cache
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Razor\Views\Main\Index.g.cshtml.cs
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\velar\source\repos\Event Management\Event Management\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
