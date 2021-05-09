@@ -31,7 +31,7 @@
     "node-noop": "1.0.0",
     "node-sass": "^4.13.1",
     "optimize-css-assets-webpack-plugin": "5.0.1",
-    "react-dev-utils": "9.0.1",
+    "react-dev-utils": "11.0.4",
     "react-hot-loader": "4.10.0",
     "rimraf": "2.6.3",
     "sass-loader": "7.1.0",
